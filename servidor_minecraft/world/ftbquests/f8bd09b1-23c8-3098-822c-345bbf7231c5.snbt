@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "f8bd09b123c83098822c345bbf7231c5"
+	name: "elbasto_#f8bd09b1"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

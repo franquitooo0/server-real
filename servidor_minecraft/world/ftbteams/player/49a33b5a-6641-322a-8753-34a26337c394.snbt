@@ -1,0 +1,17 @@
+{
+	id: "49a33b5a-6641-322a-8753-34a26337c394"
+	type: "player"
+	player_name: "Danynii"
+	ranks: {
+		49a33b5a-6641-322a-8753-34a26337c394: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Danynii"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5984"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
