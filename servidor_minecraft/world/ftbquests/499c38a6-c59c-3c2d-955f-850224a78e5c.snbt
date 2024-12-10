@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "499c38a6c59c3c2d955f850224a78e5c"
+	name: "Franquito0#499c38a6"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

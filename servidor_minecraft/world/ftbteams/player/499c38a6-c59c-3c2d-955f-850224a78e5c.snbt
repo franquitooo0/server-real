@@ -1,0 +1,17 @@
+{
+	id: "499c38a6-c59c-3c2d-955f-850224a78e5c"
+	type: "player"
+	player_name: "Franquito0"
+	ranks: {
+		499c38a6-c59c-3c2d-955f-850224a78e5c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Franquito0"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFAD59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
