@@ -3970,3 +3970,145 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [10Dec2024 23:41:30.065] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/api/event/SimpleHarvestEvent$ActionType
 [10Dec2024 23:42:35.701] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipState
 [10Dec2024 23:43:59.652] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[10Dec2024 23:44:52.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franquito0 has made the advancement [Acquire Hardware]
+[10Dec2024 23:45:21.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[10Dec2024 23:48:16.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franquito0 has made the advancement [Isn't It Iron Pick]
+[10Dec2024 23:48:35.504] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[10Dec2024 23:48:35.505] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[10Dec2024 23:48:35.514] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[10Dec2024 23:48:48.457] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[10Dec2024 23:48:52.181] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[10Dec2024 23:48:52.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2091ms or 41 ticks behind
+[10Dec2024 23:48:56.227] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[10Dec2024 23:49:11.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3541ms or 70 ticks behind
+[10Dec2024 23:50:16.041] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[10Dec2024 23:50:50.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[10Dec2024 23:50:52.046] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=284, y=22, z=132}
+[10Dec2024 23:51:56.811] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[10Dec2024 23:52:03.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasto_ has made the advancement ['X' Marks the Spot]
+[10Dec2024 23:52:05.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasto_ has made the advancement [Ice Bucket Challenge]
+[10Dec2024 23:52:10.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[10Dec2024 23:52:30.513] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4878ms or 97 ticks behind
+[10Dec2024 23:52:54.517] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danynii[/127.55.55.101:32861] logged in with entity id 4181 at (177.62045729448707, 42.7531999805212, -20.30000001192093)
+[10Dec2024 23:52:54.569] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Danynii
+[10Dec2024 23:52:54.571] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Danynii
+[10Dec2024 23:52:54.573] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Danynii
+[10Dec2024 23:52:54.575] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Danynii
+[10Dec2024 23:52:54.596] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Danynii
+[10Dec2024 23:52:54.633] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Danynii
+[10Dec2024 23:52:54.635] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Danynii
+[10Dec2024 23:52:54.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii joined the game
+[10Dec2024 23:52:55.162] [Server thread/INFO] [Jade/]: Syncing config to Danynii (49a33b5a-6641-322a-8753-34a26337c394)
+[10Dec2024 23:52:56.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[10Dec2024 23:52:57.641] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=293, y=33, z=-123}
+[10Dec2024 23:52:57.642] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=293, y=33, z=-124}
+[10Dec2024 23:53:02.081] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=309, y=-32, z=69}
+[10Dec2024 23:53:02.088] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=311, y=-32, z=69}
+[10Dec2024 23:53:03.024] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=309, y=24, z=-157}
+[10Dec2024 23:53:03.025] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=308, y=24, z=-157}
+[10Dec2024 23:53:49.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Franquito0 lost connection: Disconnected
+[10Dec2024 23:53:49.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franquito0 left the game
+[10Dec2024 23:53:49.246] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbasto_ lost connection: Disconnected
+[10Dec2024 23:53:49.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasto_ left the game
+[10Dec2024 23:53:49.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danynii lost connection: Disconnected
+[10Dec2024 23:53:49.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii left the game
+[10Dec2024 23:53:50.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 38689ms or 773 ticks behind
+[10Dec2024 23:53:51.820] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
+net.minecraft.ReportedException: Exception ticking world
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:897) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+	at java.io.DataInputStream.readUTF(DataInputStream.java:646) ~[?:?]
+	at java.io.DataInputStream.readUTF(DataInputStream.java:550) ~[?:?]
+	at net.minecraft.nbt.CompoundTag.m_128432_(CompoundTag.java:469) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:42) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:43) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:26) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.nbt.NbtIo.m_128930_(NbtIo.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.nbt.NbtIo.m_128934_(NbtIo.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.nbt.NbtIo.m_128939_(NbtIo.java:35) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at org.embeddedt.modernfix.structure.CachingStructureManager.readStructureTag(CachingStructureManager.java:61) ~[modernfix-forge-5.19.5+mc1.20.1.jar%23651!/:5.19.5+mc1.20.1]
+	at org.embeddedt.modernfix.structure.CachingStructureManager.readStructure(CachingStructureManager.java:37) ~[modernfix-forge-5.19.5+mc1.20.1.jar%23651!/:5.19.5+mc1.20.1]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230427_(StructureTemplateManager.java:1038) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager$$Lambda/0x00007ab3284cec80.apply(Unknown Source) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230425_(StructureTemplateManager.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager$$Lambda/0x00007ab32873e310.apply(Unknown Source) ~[?:?]
+	at com.google.common.cache.LocalCache.lambda$computeIfAbsent$0(LocalCache.java:4219) ~[guava-31.1-jre.jar%2374!/:?]
+	at com.google.common.cache.LocalCache$$Lambda/0x00007ab3286f62a0.apply(Unknown Source) ~[?:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.compute(LocalCache.java:3571) ~[guava-31.1-jre.jar%2374!/:?]
+	at com.google.common.cache.LocalCache$Segment.compute(LocalCache.java:2247) ~[guava-31.1-jre.jar%2374!/:?]
+	at com.google.common.cache.LocalCache.compute(LocalCache.java:4212) ~[guava-31.1-jre.jar%2374!/:?]
+	at com.google.common.cache.LocalCache.computeIfAbsent(LocalCache.java:4219) ~[guava-31.1-jre.jar%2374!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230407_(StructureTemplateManager.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230359_(StructureTemplateManager.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement$$Lambda/0x00007ab32873e0d0.apply(Unknown Source) ~[?:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_227299_(SinglePoolElement.java:81) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_213638_(SinglePoolElement.java:107) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at com.yungnickyoung.minecraft.yungsapi.world.structure.jigsaw.JigsawManager.getPosOfJigsawBlockWithName(JigsawManager.java:252) ~[YungsApi-1.20-Forge-4.0.6.jar%23755!/:1.20-Forge-4.0.6]
+[10Dec2024 23:53:52.114] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 558303c1-09c6-44e5-925b-1241c4a9c6b1
+[10Dec2024 23:53:52.123] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: /workspaces/server-real/servidor_minecraft/./crash-reports/crash-2024-12-10_23.53.51-server.txt
+[10Dec2024 23:53:52.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Dec2024 23:53:52.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Dec2024 23:53:52.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Dec2024 23:53:53.729] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Exception stopping the server
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1159) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+	at java.io.DataInputStream.readUTF(DataInputStream.java:646) ~[?:?]
+	at java.io.DataInputStream.readUTF(DataInputStream.java:550) ~[?:?]
+	at net.minecraft.nbt.CompoundTag.m_128432_(CompoundTag.java:469) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:42) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:43) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:26) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.nbt.NbtIo.m_128930_(NbtIo.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.nbt.NbtIo.m_128934_(NbtIo.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.nbt.NbtIo.m_128939_(NbtIo.java:35) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at org.embeddedt.modernfix.structure.CachingStructureManager.readStructureTag(CachingStructureManager.java:61) ~[modernfix-forge-5.19.5+mc1.20.1.jar%23651!/:5.19.5+mc1.20.1]
+	at org.embeddedt.modernfix.structure.CachingStructureManager.readStructure(CachingStructureManager.java:37) ~[modernfix-forge-5.19.5+mc1.20.1.jar%23651!/:5.19.5+mc1.20.1]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230427_(StructureTemplateManager.java:1038) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager$$Lambda/0x00007ab3284cec80.apply(Unknown Source) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230425_(StructureTemplateManager.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager$$Lambda/0x00007ab32873e310.apply(Unknown Source) ~[?:?]
+	at com.google.common.cache.LocalCache.lambda$computeIfAbsent$0(LocalCache.java:4219) ~[guava-31.1-jre.jar%2374!/:?]
+	at com.google.common.cache.LocalCache$$Lambda/0x00007ab3286f62a0.apply(Unknown Source) ~[?:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.compute(LocalCache.java:3571) ~[guava-31.1-jre.jar%2374!/:?]
+	at com.google.common.cache.LocalCache$Segment.compute(LocalCache.java:2247) ~[guava-31.1-jre.jar%2374!/:?]
+	at com.google.common.cache.LocalCache.compute(LocalCache.java:4212) ~[guava-31.1-jre.jar%2374!/:?]
+	at com.google.common.cache.LocalCache.computeIfAbsent(LocalCache.java:4219) ~[guava-31.1-jre.jar%2374!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230407_(StructureTemplateManager.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230359_(StructureTemplateManager.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement$$Lambda/0x00007ab32873e0d0.apply(Unknown Source) ~[?:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_227299_(SinglePoolElement.java:81) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_213638_(SinglePoolElement.java:107) ~[server-1.20.1-20230612.114412-srg.jar%23769!/:?]
+	at com.yungnickyoung.minecraft.yungsapi.world.structure.jigsaw.JigsawManager.getPosOfJigsawBlockWithName(JigsawManager.java:252) ~[YungsApi-1.20-Forge-4.0.6.jar%23755!/:1.20-Forge-4.0.6]
+[10Dec2024 23:53:53.764] [Server thread/INFO] [Framework/]: Unloading server configs...
+[10Dec2024 23:53:53.776] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[10Dec2024 23:53:53.786] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[10Dec2024 23:53:53.886] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

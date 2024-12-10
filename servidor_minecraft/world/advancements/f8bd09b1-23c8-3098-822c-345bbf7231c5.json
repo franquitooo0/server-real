@@ -1,13 +1,13 @@
 {
-  "mcwfencesbop:recipes/flowering_oak_hedge": {
+  "tombstone:adventure/christmas": {
     "criteria": {
-      "has_birch": "2024-12-10 23:19:12 +0000"
+      "coded_trigger": "2024-12-10 23:19:11 +0000"
     },
     "done": true
   },
-  "mcwroofs:recipes/grass": {
+  "mcwfencesbop:recipes/flowering_oak_hedge": {
     "criteria": {
-      "has_planks": "2024-12-10 23:27:38 +0000"
+      "has_birch": "2024-12-10 23:19:12 +0000"
     },
     "done": true
   },
@@ -32,12 +32,6 @@
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2024-12-10 23:19:12 +0000"
-    },
-    "done": true
-  },
-  "paraglider:root": {
-    "criteria": {
-      "crafting_table": "2024-12-10 23:28:11 +0000"
     },
     "done": true
   },
@@ -86,12 +80,6 @@
   "mcwfencesbop:recipes/jacaranda_hedge": {
     "criteria": {
       "has_birch": "2024-12-10 23:19:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2024-12-10 23:28:54 +0000"
     },
     "done": true
   },
@@ -203,19 +191,6 @@
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "clover_patch": "2024-12-10 23:19:14 +0000",
-      "maple_woods": "2024-12-10 23:26:42 +0000"
-    },
-    "done": false
-  },
-  "new_slab_variants:recipes/building_blocks/oak_log_slab": {
-    "criteria": {
-      "has_oak_log": "2024-12-10 23:26:48 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:standard_from_custom": {
     "criteria": {
       "has_the_recipe": "2024-12-10 23:19:12 +0000"
@@ -288,12 +263,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/cancel_ghostly_shape": {
-    "criteria": {
-      "coded_trigger": "2024-12-10 23:26:46 +0000"
-    },
-    "done": true
-  },
   "mcwfences:recipes/hedge": {
     "criteria": {
       "has_birch": "2024-12-10 23:19:12 +0000"
@@ -321,12 +290,6 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2024-12-10 23:19:12 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:story/root": {
-    "criteria": {
-      "obtain_crafting_table": "2024-12-10 23:28:11 +0000"
     },
     "done": true
   },
@@ -426,18 +389,6 @@
     },
     "done": true
   },
-  "mcwroofs:recipes/oak": {
-    "criteria": {
-      "has_planks": "2024-12-10 23:26:48 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/oak_planks": {
-    "criteria": {
-      "has_planks": "2024-12-10 23:27:59 +0000"
-    },
-    "done": true
-  },
   "mcwfences:recipes/spruce": {
     "criteria": {
       "has_spruce": "2024-12-10 23:19:12 +0000"
@@ -462,12 +413,6 @@
     },
     "done": true
   },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2024-12-10 23:31:01 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_cyan": {
     "criteria": {
       "has_the_recipe": "2024-12-10 23:19:12 +0000"
@@ -477,12 +422,6 @@
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2024-12-10 23:19:12 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "clover_patch": "2024-12-10 23:19:14 +0000"
     },
     "done": true
   },
@@ -564,12 +503,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/christmas": {
-    "criteria": {
-      "coded_trigger": "2024-12-10 23:19:11 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2024-12-10 23:19:12 +0000"
@@ -587,12 +520,6 @@
       "always": "2024-12-10 23:19:12 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:river": "2024-12-10 23:27:12 +0000"
-    },
-    "done": false
   },
   "mcwfencesbop:recipes/magic_hedge": {
     "criteria": {
@@ -642,27 +569,9 @@
     },
     "done": true
   },
-  "aquamirae:adventure/root": {
-    "criteria": {
-      "crafting_table": "2024-12-10 23:28:11 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/cobblestone": {
-    "criteria": {
-      "has_planks": "2024-12-10 23:28:54 +0000"
-    },
-    "done": true
-  },
   "mcwfencesbop:recipes/mahogany_hedge": {
     "criteria": {
       "has_birch": "2024-12-10 23:19:12 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2024-12-10 23:19:14 +0000"
     },
     "done": true
   },
@@ -678,9 +587,28 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "comforts:hammock_orange": {
     "criteria": {
-      "crafting_table": "2024-12-10 23:28:11 +0000"
+      "has_the_recipe": "2024-12-10 23:19:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "clover_patch": "2024-12-10 23:19:14 +0000",
+      "maple_woods": "2024-12-10 23:26:42 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "clover_patch": "2024-12-10 23:19:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-12-10 23:19:14 +0000"
     },
     "done": true
   },
@@ -690,9 +618,129 @@
     },
     "done": true
   },
-  "comforts:hammock_orange": {
+  "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
-      "has_the_recipe": "2024-12-10 23:19:12 +0000"
+      "coded_trigger": "2024-12-10 23:26:46 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/oak_log_slab": {
+    "criteria": {
+      "has_oak_log": "2024-12-10 23:26:48 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2024-12-10 23:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2024-12-10 23:27:12 +0000"
+    },
+    "done": false
+  },
+  "mcwroofs:recipes/grass": {
+    "criteria": {
+      "has_planks": "2024-12-10 23:27:38 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak_planks": {
+    "criteria": {
+      "has_planks": "2024-12-10 23:27:59 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2024-12-10 23:28:11 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/root": {
+    "criteria": {
+      "obtain_crafting_table": "2024-12-10 23:28:11 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2024-12-10 23:28:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-10 23:28:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-10 23:28:54 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cobblestone": {
+    "criteria": {
+      "has_planks": "2024-12-10 23:28:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-10 23:31:01 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-12-10 23:52:03 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2024-12-10 23:50:52 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/obsidian_slab": {
+    "criteria": {
+      "has_obsidian": "2024-12-10 23:52:05 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2024-12-10 23:52:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-10 23:52:05 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2024-12-10 23:51:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-10 23:50:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2024-12-10 23:50:44 +0000"
     },
     "done": true
   },

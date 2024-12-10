@@ -5,21 +5,9 @@
     },
     "done": true
   },
-  "mcwroofs:recipes/grass": {
-    "criteria": {
-      "has_planks": "2024-12-10 23:28:35 +0000"
-    },
-    "done": true
-  },
   "mcwfences:recipes/stone": {
     "criteria": {
       "has_stone": "2024-12-10 23:19:01 +0000"
-    },
-    "done": true
-  },
-  "mutantmonsters:root": {
-    "criteria": {
-      "killed_something": "2024-12-10 23:24:35 +0000"
     },
     "done": true
   },
@@ -29,45 +17,9 @@
     },
     "done": true
   },
-  "comforts:sleeping_bag_pink": {
-    "criteria": {
-      "has_the_recipe": "2024-12-10 23:19:02 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_magenta": {
-    "criteria": {
-      "has_the_recipe": "2024-12-10 23:19:02 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/family_tree": {
-    "criteria": {
-      "has_item": "2024-12-10 23:25:10 +0000"
-    },
-    "done": true
-  },
-  "paraglider:root": {
-    "criteria": {
-      "crafting_table": "2024-12-10 23:22:47 +0000"
-    },
-    "done": true
-  },
-  "comforts:rope_and_nail": {
-    "criteria": {
-      "has_the_recipe": "2024-12-10 23:19:02 +0000"
-    },
-    "done": true
-  },
   "mcwfencesbop:recipes/origin_hedge": {
     "criteria": {
       "has_birch": "2024-12-10 23:19:01 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_cyan": {
-    "criteria": {
-      "has_the_recipe": "2024-12-10 23:19:02 +0000"
     },
     "done": true
   },
@@ -83,12 +35,6 @@
     },
     "done": true
   },
-  "comforts:sleeping_bag_light_gray": {
-    "criteria": {
-      "has_the_recipe": "2024-12-10 23:19:02 +0000"
-    },
-    "done": true
-  },
   "mcwfencesbop:recipes/hellbark_hedge": {
     "criteria": {
       "has_birch": "2024-12-10 23:19:01 +0000"
@@ -98,12 +44,6 @@
   "mcwfencesbop:recipes/jacaranda_hedge": {
     "criteria": {
       "has_birch": "2024-12-10 23:19:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2024-12-10 23:28:44 +0000"
     },
     "done": true
   },
@@ -137,33 +77,15 @@
     },
     "done": true
   },
-  "comforts:hammock_gray": {
-    "criteria": {
-      "has_the_recipe": "2024-12-10 23:19:02 +0000"
-    },
-    "done": true
-  },
   "mcwfences:recipes/sandstone": {
     "criteria": {
       "has_sand": "2024-12-10 23:19:01 +0000"
     },
     "done": true
   },
-  "queen_bee:root": {
-    "criteria": {
-      "root": "2024-12-10 23:19:02 +0000"
-    },
-    "done": true
-  },
   "mcwfences:recipes/acacia": {
     "criteria": {
       "has_acacia": "2024-12-10 23:19:01 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_magenta": {
-    "criteria": {
-      "has_the_recipe": "2024-12-10 23:19:02 +0000"
     },
     "done": true
   },
@@ -176,18 +98,6 @@
   "mcwfencesbop:recipes/snowblossom_hedge": {
     "criteria": {
       "has_birch": "2024-12-10 23:19:01 +0000"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass": {
-    "criteria": {
-      "has_recipe": "2024-12-10 23:19:02 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_black": {
-    "criteria": {
-      "has_the_recipe": "2024-12-10 23:19:02 +0000"
     },
     "done": true
   },
@@ -206,41 +116,6 @@
   "mcwfencesbop:recipes/willow_hedge": {
     "criteria": {
       "has_birch": "2024-12-10 23:19:01 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_red": {
-    "criteria": {
-      "has_the_recipe": "2024-12-10 23:19:02 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "clover_patch": "2024-12-10 23:19:04 +0000",
-      "maple_woods": "2024-12-10 23:26:33 +0000",
-      "orchard": "2024-12-10 23:24:13 +0000",
-      "spider_nest": "2024-12-10 23:30:53 +0000",
-      "redwood_forest": "2024-12-10 23:22:37 +0000"
-    },
-    "done": false
-  },
-  "new_slab_variants:recipes/building_blocks/oak_log_slab": {
-    "criteria": {
-      "has_oak_log": "2024-12-10 23:25:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:spider": "2024-12-10 23:24:35 +0000",
-      "minecraft:zombie": "2024-12-10 23:24:59 +0000"
-    },
-    "done": false
-  },
-  "travelersbackpack:standard_from_custom": {
-    "criteria": {
-      "has_the_recipe": "2024-12-10 23:19:02 +0000"
     },
     "done": true
   },
@@ -268,24 +143,6 @@
     },
     "done": true
   },
-  "mowziesmobs:root": {
-    "criteria": {
-      "custom_test_name": "2024-12-10 23:19:02 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_brown": {
-    "criteria": {
-      "has_the_recipe": "2024-12-10 23:19:02 +0000"
-    },
-    "done": true
-  },
-  "lootr:root": {
-    "criteria": {
-      "always_true": "2024-12-10 23:19:02 +0000"
-    },
-    "done": true
-  },
   "mcwfences:recipes/blackstone": {
     "criteria": {
       "has_blackstone": "2024-12-10 23:19:01 +0000"
@@ -298,33 +155,9 @@
     },
     "done": true
   },
-  "comforts:hammock_brown": {
-    "criteria": {
-      "has_the_recipe": "2024-12-10 23:19:02 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/needle_and_thread": {
-    "criteria": {
-      "has_item": "2024-12-10 23:24:38 +0000"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass_cobweb": {
-    "criteria": {
-      "has_recipe": "2024-12-10 23:19:02 +0000"
-    },
-    "done": true
-  },
   "mcwfences:recipes/hedge": {
     "criteria": {
       "has_birch": "2024-12-10 23:19:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-12-10 23:25:04 +0000"
     },
     "done": true
   },
@@ -334,27 +167,9 @@
     },
     "done": true
   },
-  "betterdeserttemples:root": {
-    "criteria": {
-      "always": "2024-12-10 23:19:02 +0000"
-    },
-    "done": true
-  },
   "mcwfencesbop:recipes/dead": {
     "criteria": {
       "has_acacia": "2024-12-10 23:19:01 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2024-12-10 23:19:02 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:story/root": {
-    "criteria": {
-      "obtain_crafting_table": "2024-12-10 23:22:47 +0000"
     },
     "done": true
   },
@@ -364,45 +179,15 @@
     },
     "done": true
   },
-  "explorerscompass:explorers_compass": {
-    "criteria": {
-      "has_recipe": "2024-12-10 23:19:02 +0000"
-    },
-    "done": true
-  },
   "mcwfencesbop:recipes/fir_hedge": {
     "criteria": {
       "has_birch": "2024-12-10 23:19:01 +0000"
     },
     "done": true
   },
-  "comforts:sleeping_bag_light_blue": {
-    "criteria": {
-      "has_the_recipe": "2024-12-10 23:19:02 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/root": {
-    "criteria": {
-      "tick": "2024-12-10 23:19:02 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_purple": {
-    "criteria": {
-      "has_the_recipe": "2024-12-10 23:19:02 +0000"
-    },
-    "done": true
-  },
   "mcwfences:recipes/bamboo": {
     "criteria": {
       "has_bamboo": "2024-12-10 23:19:01 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_red": {
-    "criteria": {
-      "has_the_recipe": "2024-12-10 23:19:02 +0000"
     },
     "done": true
   },
@@ -418,45 +203,15 @@
     },
     "done": true
   },
-  "comforts:sleeping_bag_white": {
-    "criteria": {
-      "has_the_recipe": "2024-12-10 23:19:02 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_gray": {
-    "criteria": {
-      "has_the_recipe": "2024-12-10 23:19:02 +0000"
-    },
-    "done": true
-  },
   "mcwfencesbop:recipes/yellow_autumn_hedge": {
     "criteria": {
       "has_birch": "2024-12-10 23:19:01 +0000"
     },
     "done": true
   },
-  "explorerscompass:explorers_compass_cracked_stone_bricks": {
-    "criteria": {
-      "has_recipe": "2024-12-10 23:19:02 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_black": {
-    "criteria": {
-      "has_the_recipe": "2024-12-10 23:19:02 +0000"
-    },
-    "done": true
-  },
   "mcwfencesbop:recipes/orange_autumn_hedge": {
     "criteria": {
       "has_birch": "2024-12-10 23:19:01 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/oak": {
-    "criteria": {
-      "has_planks": "2024-12-10 23:25:09 +0000"
     },
     "done": true
   },
@@ -478,15 +233,249 @@
     },
     "done": true
   },
-  "naturescompass:natures_compass_log": {
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2024-12-10 23:19:01 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/rainbow_birch_hedge": {
+    "criteria": {
+      "has_birch": "2024-12-10 23:19:01 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/hellbark": {
+    "criteria": {
+      "has_acacia": "2024-12-10 23:19:01 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/umbran": {
+    "criteria": {
+      "has_acacia": "2024-12-10 23:19:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/christmas": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 23:19:01 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/palm_hedge": {
+    "criteria": {
+      "has_birch": "2024-12-10 23:19:01 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/magic_hedge": {
+    "criteria": {
+      "has_birch": "2024-12-10 23:19:01 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/palm": {
+    "criteria": {
+      "has_acacia": "2024-12-10 23:19:01 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/redwood_hedge": {
+    "criteria": {
+      "has_birch": "2024-12-10 23:19:01 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/jacaranda": {
+    "criteria": {
+      "has_acacia": "2024-12-10 23:19:01 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/mahogany_hedge": {
+    "criteria": {
+      "has_birch": "2024-12-10 23:19:01 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2024-12-10 23:19:01 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 23:19:02 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 23:19:02 +0000"
+    },
+    "done": true
+  },
+  "comforts:rope_and_nail": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 23:19:02 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 23:19:02 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 23:19:02 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 23:19:02 +0000"
+    },
+    "done": true
+  },
+  "queen_bee:root": {
+    "criteria": {
+      "root": "2024-12-10 23:19:02 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 23:19:02 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2024-12-10 23:19:02 +0000"
     },
     "done": true
   },
-  "minecraft:story/upgrade_tools": {
+  "comforts:sleeping_bag_black": {
     "criteria": {
-      "stone_pickaxe": "2024-12-10 23:29:24 +0000"
+      "has_the_recipe": "2024-12-10 23:19:02 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 23:19:02 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 23:19:02 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-10 23:19:02 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 23:19:02 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-12-10 23:19:02 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 23:19:02 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2024-12-10 23:19:02 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-12-10 23:19:02 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-10 23:19:02 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2024-12-10 23:19:02 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 23:19:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-12-10 23:19:02 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 23:19:02 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 23:19:02 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 23:19:02 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 23:19:02 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2024-12-10 23:19:02 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 23:19:02 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2024-12-10 23:19:02 +0000"
     },
     "done": true
   },
@@ -502,12 +491,6 @@
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "clover_patch": "2024-12-10 23:19:04 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_green": {
     "criteria": {
       "has_the_recipe": "2024-12-10 23:19:02 +0000"
@@ -520,33 +503,9 @@
     },
     "done": true
   },
-  "ironfurnaces:coal": {
-    "criteria": {
-      "rainbowcoal": "2024-12-10 23:19:01 +0000"
-    },
-    "done": true
-  },
-  "mcwfencesbop:recipes/rainbow_birch_hedge": {
-    "criteria": {
-      "has_birch": "2024-12-10 23:19:01 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2024-12-10 23:19:02 +0000"
-    },
-    "done": true
-  },
-  "mcwfencesbop:recipes/hellbark": {
-    "criteria": {
-      "has_acacia": "2024-12-10 23:19:01 +0000"
-    },
-    "done": true
-  },
-  "mcwfencesbop:recipes/umbran": {
-    "criteria": {
-      "has_acacia": "2024-12-10 23:19:01 +0000"
     },
     "done": true
   },
@@ -568,12 +527,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2024-12-10 23:24:35 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2024-12-10 23:19:02 +0000"
@@ -592,45 +545,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/christmas": {
-    "criteria": {
-      "coded_trigger": "2024-12-10 23:19:01 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2024-12-10 23:19:02 +0000"
     },
     "done": true
   },
-  "mcwfencesbop:recipes/palm_hedge": {
-    "criteria": {
-      "has_birch": "2024-12-10 23:19:01 +0000"
-    },
-    "done": true
-  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2024-12-10 23:19:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:spider": "2024-12-10 23:24:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:river": "2024-12-10 23:20:39 +0000"
-    },
-    "done": false
-  },
-  "mcwfencesbop:recipes/magic_hedge": {
-    "criteria": {
-      "has_birch": "2024-12-10 23:19:01 +0000"
     },
     "done": true
   },
@@ -652,58 +575,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "cooked_beef": "2024-12-10 23:29:33 +0000",
-      "rotten_flesh": "2024-12-10 23:25:04 +0000"
-    },
-    "done": false
-  },
-  "mcwfencesbop:recipes/palm": {
-    "criteria": {
-      "has_acacia": "2024-12-10 23:19:01 +0000"
-    },
-    "done": true
-  },
-  "mcwfencesbop:recipes/redwood_hedge": {
-    "criteria": {
-      "has_birch": "2024-12-10 23:19:01 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2024-12-10 23:19:02 +0000"
-    },
-    "done": true
-  },
-  "mcwfencesbop:recipes/jacaranda": {
-    "criteria": {
-      "has_acacia": "2024-12-10 23:19:01 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/root": {
-    "criteria": {
-      "crafting_table": "2024-12-10 23:22:47 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/cobblestone": {
-    "criteria": {
-      "has_planks": "2024-12-10 23:28:44 +0000"
-    },
-    "done": true
-  },
-  "mcwfencesbop:recipes/mahogany_hedge": {
-    "criteria": {
-      "has_birch": "2024-12-10 23:19:01 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2024-12-10 23:19:04 +0000"
     },
     "done": true
   },
@@ -713,15 +587,31 @@
     },
     "done": true
   },
-  "mcwfences:recipes/birch": {
+  "comforts:hammock_orange": {
     "criteria": {
-      "has_birch": "2024-12-10 23:19:01 +0000"
+      "has_the_recipe": "2024-12-10 23:19:02 +0000"
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "crafting_table": "2024-12-10 23:22:47 +0000"
+      "clover_patch": "2024-12-10 23:19:04 +0000",
+      "maple_woods": "2024-12-10 23:26:33 +0000",
+      "orchard": "2024-12-10 23:24:13 +0000",
+      "spider_nest": "2024-12-10 23:30:53 +0000",
+      "redwood_forest": "2024-12-10 23:22:37 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "clover_patch": "2024-12-10 23:19:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-12-10 23:19:04 +0000"
     },
     "done": true
   },
@@ -731,9 +621,119 @@
     },
     "done": true
   },
-  "comforts:hammock_orange": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "has_the_recipe": "2024-12-10 23:19:02 +0000"
+      "minecraft:river": "2024-12-10 23:20:39 +0000"
+    },
+    "done": false
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2024-12-10 23:22:47 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/root": {
+    "criteria": {
+      "obtain_crafting_table": "2024-12-10 23:22:47 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2024-12-10 23:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-10 23:22:47 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2024-12-10 23:24:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2024-12-10 23:24:35 +0000",
+      "minecraft:zombie": "2024-12-10 23:24:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-10 23:24:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2024-12-10 23:24:35 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2024-12-10 23:24:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-10 23:25:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-12-10 23:29:33 +0000",
+      "rotten_flesh": "2024-12-10 23:25:04 +0000"
+    },
+    "done": false
+  },
+  "new_slab_variants:recipes/building_blocks/oak_log_slab": {
+    "criteria": {
+      "has_oak_log": "2024-12-10 23:25:09 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2024-12-10 23:25:09 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2024-12-10 23:25:10 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/grass": {
+    "criteria": {
+      "has_planks": "2024-12-10 23:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-10 23:28:44 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cobblestone": {
+    "criteria": {
+      "has_planks": "2024-12-10 23:28:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-10 23:29:24 +0000"
     },
     "done": true
   },
