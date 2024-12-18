@@ -369,9 +369,13 @@
     "criteria": {
       "mauve_hills": "2024-12-18 02:14:45 +0000",
       "pine_taiga": "2024-12-18 02:27:46 +0000",
+      "willow_forest": "2024-12-18 03:09:27 +0000",
+      "grassy_beach": "2024-12-18 03:09:44 +0000",
       "rocky_meadow": "2024-12-18 01:38:56 +0000",
       "blackwood_taiga": "2024-12-18 02:44:51 +0000",
-      "temperate_grove": "2024-12-18 02:27:03 +0000"
+      "magnolia_highlands": "2024-12-18 03:09:02 +0000",
+      "temperate_grove": "2024-12-18 02:27:03 +0000",
+      "lupine_plains": "2024-12-18 03:08:38 +0000"
     },
     "done": false
   },
@@ -379,9 +383,13 @@
     "criteria": {
       "mauve_hills": "2024-12-18 02:14:45 +0000",
       "pine_taiga": "2024-12-18 02:27:46 +0000",
+      "willow_forest": "2024-12-18 03:09:27 +0000",
+      "grassy_beach": "2024-12-18 03:09:44 +0000",
       "rocky_meadow": "2024-12-18 01:38:56 +0000",
       "blackwood_taiga": "2024-12-18 02:44:51 +0000",
-      "temperate_grove": "2024-12-18 02:27:03 +0000"
+      "magnolia_highlands": "2024-12-18 03:09:02 +0000",
+      "temperate_grove": "2024-12-18 02:27:03 +0000",
+      "lupine_plains": "2024-12-18 03:08:38 +0000"
     },
     "done": false
   },
@@ -414,7 +422,9 @@
       "shrubland": "2024-12-18 02:26:41 +0000",
       "rocky_shrubland": "2024-12-18 02:25:36 +0000",
       "scrubland": "2024-12-18 02:21:26 +0000",
-      "clover_patch": "2024-12-18 02:46:46 +0000"
+      "clover_patch": "2024-12-18 02:46:46 +0000",
+      "orchard": "2024-12-18 03:08:54 +0000",
+      "redwood_forest": "2024-12-18 03:10:50 +0000"
     },
     "done": false
   },
@@ -435,7 +445,8 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-18 02:55:10 +0000",
       "minecraft:spider": "2024-12-18 02:53:48 +0000",
-      "minecraft:enderman": "2024-12-18 02:55:25 +0000"
+      "minecraft:enderman": "2024-12-18 02:55:25 +0000",
+      "minecraft:zombie": "2024-12-18 03:19:59 +0000"
     },
     "done": false
   },
@@ -451,6 +462,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-18 03:01:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:spider": "2024-12-18 02:53:48 +0000"
@@ -461,6 +478,7 @@
     "criteria": {
       "minecraft:cherry_grove": "2024-12-18 02:23:06 +0000",
       "minecraft:savanna_plateau": "2024-12-18 02:21:32 +0000",
+      "minecraft:beach": "2024-12-18 03:16:09 +0000",
       "minecraft:river": "2024-12-18 02:14:50 +0000",
       "minecraft:forest": "2024-12-18 02:27:06 +0000",
       "minecraft:savanna": "2024-12-18 02:18:08 +0000",
@@ -471,6 +489,12 @@
   "mcwroofs:recipes/concrete": {
     "criteria": {
       "has_planks": "2024-12-18 02:37:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-18 03:12:54 +0000"
     },
     "done": true
   },
@@ -492,9 +516,21 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:58:32 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {
       "killed_by": "2024-12-18 02:19:54 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak_planks": {
+    "criteria": {
+      "has_planks": "2024-12-18 03:01:01 +0000"
     },
     "done": true
   },
@@ -532,6 +568,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2024-12-18 03:06:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-18 02:29:40 +0000"
@@ -564,7 +606,8 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
-      "mauve_log": "2024-12-18 02:13:23 +0000"
+      "mauve_log": "2024-12-18 02:13:23 +0000",
+      "blackwood_log": "2024-12-18 03:20:08 +0000"
     },
     "done": false
   },
