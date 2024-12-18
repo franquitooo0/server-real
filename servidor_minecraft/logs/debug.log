@@ -17674,3 +17674,621 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Dec2024 02:23:48.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10331ms or 206 ticks behind
 [18Dec2024 02:23:54.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii has made the advancement [Getting an Upgrade]
 [18Dec2024 02:24:01.693] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:vegetations/big_tree
+[18Dec2024 02:24:07.100] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:castle
+[18Dec2024 02:24:07.145] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/skeleton
+[18Dec2024 02:24:07.147] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/horse
+[18Dec2024 02:24:08.707] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_15
+[18Dec2024 02:24:14.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11139ms or 222 ticks behind
+[18Dec2024 02:24:18.787] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Danynii'/453, l='ServerLevel[world]', x=-794.51, y=112.00, z=-545.91], dimensionLocationPath overworld
+[18Dec2024 02:24:18.790] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Danynii'/453, l='ServerLevel[world]', x=-794.51, y=112.00, z=-545.91] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@774]
+[18Dec2024 02:24:27.601] [Worker-Main-14/DEBUG] [ModernFix/]: Structure graveyard:small_grave/small_grave_18 is being run through DFU (hash 739fcd0cca44ad88cfc408539225284c6636a807c5a58b4f0ab0a5869a7faf63), this will cause launch time delays
+[18Dec2024 02:24:42.905] [Worker-Main-14/DEBUG] [ModernFix/]: Structure valhelsia_structures:spawner_dungeon/cave_entrance/large is being run through DFU (hash c0e7f141bc4c8c8bcf518dbf19f08b42ec481851a59c91d3faabbf0f10dbaf11), this will cause launch time delays
+[18Dec2024 02:24:47.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18425ms or 368 ticks behind
+[18Dec2024 02:24:49.890] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:player_house/feature_farm_3
+[18Dec2024 02:25:05.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3067ms or 61 ticks behind
+[18Dec2024 02:25:08.266] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-69, y=63, z=24}
+[18Dec2024 02:25:08.321] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:player_house/feature_portal_1
+[18Dec2024 02:25:24.393] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/cold/whole
+[18Dec2024 02:25:24.400] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/warm/whole
+[18Dec2024 02:25:25.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4566ms or 91 ticks behind
+[18Dec2024 02:25:31.254] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[18Dec2024 02:25:33.595] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_12
+[18Dec2024 02:25:39.920] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:25:46.903] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_graveyard/small_desert_graveyard_01
+[18Dec2024 02:25:47.799] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_1
+[18Dec2024 02:25:50.845] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:ruins/ruins_02
+[18Dec2024 02:25:53.224] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13020ms or 260 ticks behind
+[18Dec2024 02:25:59.947] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_2
+[18Dec2024 02:26:07.884] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[18Dec2024 02:26:14.781] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[18Dec2024 02:26:14.871] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[18Dec2024 02:26:14.881] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[18Dec2024 02:26:15.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7677ms or 153 ticks behind
+[18Dec2024 02:26:16.361] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:ruins/tower_ruin_1
+[18Dec2024 02:26:24.861] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:giant_mushroom/giant_red_mushroom_stem_01
+[18Dec2024 02:26:27.600] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_2
+[18Dec2024 02:26:31.924] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:26:33.419] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Danynii'/453, l='ServerLevel[world]', x=-787.17, y=61.08, z=-734.24]
+[18Dec2024 02:26:33.423] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[18Dec2024 02:26:34.206] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Danynii'/453, l='ServerLevel[world]', x=-787.06, y=62.69, z=-737.20], dimensionLocationPath overworld
+[18Dec2024 02:26:34.207] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Danynii'/453, l='ServerLevel[world]', x=-787.06, y=62.69, z=-737.20] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@774]
+[18Dec2024 02:26:34.696] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:castle
+[18Dec2024 02:26:36.733] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/skeleton
+[18Dec2024 02:26:37.423] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:desert_house/desert_house
+[18Dec2024 02:26:38.483] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:ruins/tower_ruin_2
+[18Dec2024 02:26:39.750] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/horse
+[18Dec2024 02:26:40.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9613ms or 192 ticks behind
+[18Dec2024 02:26:43.333] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_07
+[18Dec2024 02:26:43.554] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_18
+[18Dec2024 02:26:43.626] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_05
+[18Dec2024 02:26:48.457] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[18Dec2024 02:26:51.449] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[18Dec2024 02:26:53.218] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:medium_graveyard/medium_graveyard_01 is being run through DFU (hash aae954b46b33c18292a82912817d49d1d3280d65b48008cb8aaf2a26e70c9477), this will cause launch time delays
+[18Dec2024 02:26:55.378] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[18Dec2024 02:26:58.151] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:sorcerer_hut/sorcerer_hut
+[18Dec2024 02:26:59.858] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:27:00.150] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_06
+[18Dec2024 02:27:00.349] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_03
+[18Dec2024 02:27:01.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6228ms or 124 ticks behind
+[18Dec2024 02:27:01.716] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_2
+[18Dec2024 02:27:01.907] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_02
+[18Dec2024 02:27:19.565] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:27:19.575] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_2
+[18Dec2024 02:27:22.668] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[18Dec2024 02:27:23.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6442ms or 128 ticks behind
+[18Dec2024 02:27:24.439] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_1
+[18Dec2024 02:27:30.221] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[18Dec2024 02:27:30.939] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:27:30.942] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_2
+[18Dec2024 02:27:36.401] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:27:36.408] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_1
+[18Dec2024 02:27:38.244] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_2
+[18Dec2024 02:27:38.368] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[18Dec2024 02:27:40.224] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[18Dec2024 02:27:40.498] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/crossroad_01 is being run through DFU (hash 8b8fd5203d6eb3f17e72112b25495be546980ded56bd70dec4e61d873e997e87), this will cause launch time delays
+[18Dec2024 02:27:45.027] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[18Dec2024 02:27:45.032] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[18Dec2024 02:27:45.144] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:ruins/tower_ruin_1
+[18Dec2024 02:27:46.016] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:27:46.027] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_1
+[18Dec2024 02:27:48.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10570ms or 211 ticks behind
+[18Dec2024 02:27:50.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii has made the advancement [Barrel Booty]
+[18Dec2024 02:27:52.418] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[18Dec2024 02:27:52.421] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[18Dec2024 02:27:58.368] [pool-9-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:small/village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mesa_fortified], ResourceKey[minecraft:worldgen/structure / ctov:large/village_plains]] from pos BlockPos{x=101, y=68, z=-523}
+[18Dec2024 02:27:58.379] [pool-9-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[18Dec2024 02:27:58.408] [pool-9-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[18Dec2024 02:27:58.434] [pool-9-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1
+[18Dec2024 02:27:58.456] [pool-9-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/town_centers/sparse_jungle_meeting_point_1
+[18Dec2024 02:27:58.525] [pool-9-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/town_centers/swamp_b_meeting_point_1
+[18Dec2024 02:27:58.530] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_03
+[18Dec2024 02:28:00.296] [pool-9-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[18Dec2024 02:28:01.348] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_1
+[18Dec2024 02:28:02.910] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
+[18Dec2024 02:28:02.913] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of bountiful:village/common/bounty_gazebo
+[18Dec2024 02:28:02.915] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[18Dec2024 02:28:05.087] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:ruins/tower_ruin_1
+[18Dec2024 02:28:08.684] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/roads/bent_2 is being run through DFU (hash 4eb747496b87844786d041528f3aee111f8ba8e4b6ece22d19aed8475063e79d), this will cause launch time delays
+[18Dec2024 02:28:08.733] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/house/small_1 is being run through DFU (hash db344a2e60a933e35d3a4357204a3d525338d556ce39b24f4ae24cc815451efa), this will cause launch time delays
+[18Dec2024 02:28:08.757] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/house/small_2 is being run through DFU (hash 6f341960d0a0d0dcdc5db91d353a56495067bb11a5781a10b0b9967741900691), this will cause launch time delays
+[18Dec2024 02:28:08.793] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/house/small_3 is being run through DFU (hash ed6d2c05327038419687b6f16a21cd3ca51f33f7fc6d6fe00b6ac9cb26466407), this will cause launch time delays
+[18Dec2024 02:28:08.802] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/house/small_4 is being run through DFU (hash 04e97f7557f03800066d3debb9155cc0e21aefe14f9e7376ced46528ce06294f), this will cause launch time delays
+[18Dec2024 02:28:08.824] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/house/small_5 is being run through DFU (hash 248d421ed9c3aea339271f4345137be3d0d8cdca0fb76cf5f3cc7eac1bff6f1a), this will cause launch time delays
+[18Dec2024 02:28:08.837] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/house/med_1 is being run through DFU (hash eb20b56ec80b12b5aec8dc8f8c30ed676619b80c2eb76959e183da7cb7c56343), this will cause launch time delays
+[18Dec2024 02:28:08.869] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/house/med_2 is being run through DFU (hash a32cf05941ad849fa2c5056eec9d414378df8e0cb280cab85000c5191047fff1), this will cause launch time delays
+[18Dec2024 02:28:08.974] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/house/big_1 is being run through DFU (hash 0f34c6d68c53bed9df11bb185e9156b6b619a77a818c1d9a34d9f7c0da2c30cc), this will cause launch time delays
+[18Dec2024 02:28:09.013] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/house/big_2 is being run through DFU (hash ab1bf5427e7686928c03dc865b3251e66c6b01fae4f6b25b08360044509570df), this will cause launch time delays
+[18Dec2024 02:28:09.029] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/jobsite/butcher is being run through DFU (hash 2a330613a70c44b992cd2a3b6b4f41eef88b49db0ecf3076e578d15f702588db), this will cause launch time delays
+[18Dec2024 02:28:09.038] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/jobsite/cartography is being run through DFU (hash c95393095819154370da2ae20212f6d8336b8c6a589c791d5504b0fcb98a85dc), this will cause launch time delays
+[18Dec2024 02:28:09.047] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/jobsite/chemist is being run through DFU (hash ce969ce0748172f9de3763ba5ae80c55086ac793c7f520361e8e91c2fc23add9), this will cause launch time delays
+[18Dec2024 02:28:09.054] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/jobsite/fishing_hut is being run through DFU (hash 4953fac1cdc77d346a3b97b8a1e80872534f265658031da801140b737211d340), this will cause launch time delays
+[18Dec2024 02:28:09.078] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/jobsite/library is being run through DFU (hash 760d1d815243f24bd50d27b9e9eff474c89406a8b4926b7d4de7a4cd065ee477), this will cause launch time delays
+[18Dec2024 02:28:09.100] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/jobsite/shepherd is being run through DFU (hash d99e8ff41cc37c01cc40a33d3745504a9698f13d60c6f22865151765fb796343), this will cause launch time delays
+[18Dec2024 02:28:09.108] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/jobsite/mason is being run through DFU (hash 800a3ca19c240bc851ac61f628aba41c03086b3c8b57100476d1245aa5a7faf4), this will cause launch time delays
+[18Dec2024 02:28:09.114] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/jobsite/pen is being run through DFU (hash 53011de75762d80c9230277750ea7a03e17bab0ccd75dd9866cffc0c91386b8d), this will cause launch time delays
+[18Dec2024 02:28:09.119] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/jobsite/farm is being run through DFU (hash fe5c6c43f7e734051617c7b67fe76c6dfbc0c94b802a02338aafe97a6c898b60), this will cause launch time delays
+[18Dec2024 02:28:09.140] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/jobsite/smith is being run through DFU (hash d0fa18b4986784778dcd362f5cd3f97f9615a14ed6108e2ea263379772c18bcd), this will cause launch time delays
+[18Dec2024 02:28:09.152] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of bountiful:village/common/bounty_gazebo
+[18Dec2024 02:28:09.153] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/jobsite/fd_farm is being run through DFU (hash c9f68415d192cc014622e2cd2fd36251ee04189f6df42083fbc3a47f789aea96), this will cause launch time delays
+[18Dec2024 02:28:09.164] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[18Dec2024 02:28:09.165] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/decos/lamp_1 is being run through DFU (hash 1d85a525653ddac620bb5d46db61488c8aefccbfb98e70a0db0d9bea98f6340f), this will cause launch time delays
+[18Dec2024 02:28:09.225] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/decos/lamp_2 is being run through DFU (hash df0fbc6738328f30368975b05ed103b1635a9bb57e606b9e206ef62aa8c09ce4), this will cause launch time delays
+[18Dec2024 02:28:09.227] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/decos/lamp_3 is being run through DFU (hash 4bcf0c1f41e3d1331a4d20b4ab2dd0ddae14cbc7f931602b82a044bc2c8297e4), this will cause launch time delays
+[18Dec2024 02:28:09.228] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/decos/lamp_4 is being run through DFU (hash 13d92b75993a915bf83f1968d59afc93a79f04afbee45eca7e62a23db423a3ad), this will cause launch time delays
+[18Dec2024 02:28:09.231] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/decos/well is being run through DFU (hash 282a1bd44ba563f5754d37a0634e888b599939c8fa6b9cadb606d556a72463b1), this will cause launch time delays
+[18Dec2024 02:28:09.235] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/decos/hay_bale is being run through DFU (hash 97bbddd22126d438fc4cc9624ff7537f4b6a428894c54667ff3c796cec9bc854), this will cause launch time delays
+[18Dec2024 02:28:09.237] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/decos/wagon is being run through DFU (hash 32ad3dd02b4a04b65ff9ea567e6fb2cc1966ce1c2aaeeef4f237d1d11ae3f95c), this will cause launch time delays
+[18Dec2024 02:28:09.254] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/roads/bent_1 is being run through DFU (hash db61f1b2e9e41d1ecabf11d229517488b2b46aaac53b9003408f191175478041), this will cause launch time delays
+[18Dec2024 02:28:09.269] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/roads/inter is being run through DFU (hash 00fcd404e0b6839013b6c204a2c9eb069a8992f694a365f501cb334ee1e0ff08), this will cause launch time delays
+[18Dec2024 02:28:09.307] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/roads/straight is being run through DFU (hash 7d924f75bfb47474c789c8838c00a9a44e12344c2074eb247cc67591436e3d5a), this will cause launch time delays
+[18Dec2024 02:28:09.355] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/chicken
+[18Dec2024 02:28:09.355] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/cow
+[18Dec2024 02:28:09.357] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/pig
+[18Dec2024 02:28:09.360] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/sheep
+[18Dec2024 02:28:10.316] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/roads/t_1 is being run through DFU (hash d1987f2eeb4d23fc5b33a4c858a1a1ebc167756bfe50889e4c35bfa20535d682), this will cause launch time delays
+[18Dec2024 02:28:10.335] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/roads/t_2 is being run through DFU (hash c13bc2e0c619dbcd955858c7f566a024d52c4b04359831b2066239f315a53d6e), this will cause launch time delays
+[18Dec2024 02:28:10.368] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/roads/t_3 is being run through DFU (hash c72e12af032f962344aeef0b57865db1cc291d946aea0956cc643c3395f61da8), this will cause launch time delays
+[18Dec2024 02:28:10.834] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ctov:village/plains/roads/terminator is being run through DFU (hash 4a9df8529e5b44ca5bd0cb3cfd0441800ca596f61b0d68d879ee35213f6f8733), this will cause launch time delays
+[18Dec2024 02:28:11.906] [pool-9-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[18Dec2024 02:28:11.950] [pool-9-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1
+[18Dec2024 02:28:11.987] [pool-9-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/town_centers/sparse_jungle_meeting_point_1
+[18Dec2024 02:28:12.016] [pool-9-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/town_centers/swamp_b_meeting_point_1
+[18Dec2024 02:28:12.133] [pool-9-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[18Dec2024 02:28:12.624] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:illusioner_tower/tower_3
+[18Dec2024 02:28:21.190] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_02 is being run through DFU (hash 3ebfdf2002a8616f946b612714ca2aaef948e21fc0586aefefad13f6a5d00e89), this will cause launch time delays
+[18Dec2024 02:28:22.446] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:28:23.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20105ms or 402 ticks behind
+[18Dec2024 02:28:28.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii has made the advancement [Suit Up]
+[18Dec2024 02:28:30.380] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_1
+[18Dec2024 02:28:43.587] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/mushroom_fields_fantasy/town_centers/mushroom_meeting_point_1
+[18Dec2024 02:28:43.670] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/town_centers/badlands_meeting_point_1
+[18Dec2024 02:28:43.769] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[18Dec2024 02:28:43.824] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1
+[18Dec2024 02:28:43.833] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[18Dec2024 02:28:43.846] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/nilotic/base_plate
+[18Dec2024 02:28:43.865] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/town_centers/meadow_meeting_point_1
+[18Dec2024 02:28:43.893] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_1
+[18Dec2024 02:28:43.903] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/wandering_trader_camp/town_centers/trader_meeting_point_1
+[18Dec2024 02:28:44.006] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/town_centers/beach_meeting_point_1
+[18Dec2024 02:28:44.051] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_2
+[18Dec2024 02:28:44.071] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1
+[18Dec2024 02:28:44.088] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_02
+[18Dec2024 02:28:44.103] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_05
+[18Dec2024 02:28:44.111] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_03
+[18Dec2024 02:28:44.118] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_04
+[18Dec2024 02:28:44.125] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_05
+[18Dec2024 02:28:44.132] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_02
+[18Dec2024 02:28:44.134] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_06
+[18Dec2024 02:28:44.136] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_01
+[18Dec2024 02:28:44.137] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_03
+[18Dec2024 02:28:44.139] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_01
+[18Dec2024 02:28:44.140] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_04
+[18Dec2024 02:28:44.142] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/turn_01
+[18Dec2024 02:28:44.143] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_06
+[18Dec2024 02:28:44.146] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_03
+[18Dec2024 02:28:44.149] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_02
+[18Dec2024 02:28:44.151] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_01
+[18Dec2024 02:28:44.153] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_04
+[18Dec2024 02:28:44.160] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_01
+[18Dec2024 02:28:44.161] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_02
+[18Dec2024 02:28:44.161] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_03
+[18Dec2024 02:28:44.169] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_7
+[18Dec2024 02:28:44.185] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_farm_1
+[18Dec2024 02:28:44.231] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_leatherworker_1
+[18Dec2024 02:28:44.237] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_toolsmith_1
+[18Dec2024 02:28:44.247] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_medium_house_1
+[18Dec2024 02:28:44.248] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_8
+[18Dec2024 02:28:44.250] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_fisher_1
+[18Dec2024 02:28:44.251] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_large_farm_1
+[18Dec2024 02:28:44.252] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_1
+[18Dec2024 02:28:44.253] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_temple_1
+[18Dec2024 02:28:44.263] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_library_1
+[18Dec2024 02:28:44.276] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_animal_pen_3
+[18Dec2024 02:28:44.276] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_medium_house_2
+[18Dec2024 02:28:44.278] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_weaponsmith_1
+[18Dec2024 02:28:44.279] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_butcher_2
+[18Dec2024 02:28:44.280] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_large_house_1
+[18Dec2024 02:28:44.281] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_3
+[18Dec2024 02:28:44.282] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_shepherd_1
+[18Dec2024 02:28:44.295] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_4
+[18Dec2024 02:28:44.297] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_fletcher_1
+[18Dec2024 02:28:44.297] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_2
+[18Dec2024 02:28:44.325] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_mason_1
+[18Dec2024 02:28:44.333] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_stable_1
+[18Dec2024 02:28:44.542] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_6
+[18Dec2024 02:28:44.545] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_armorer_1
+[18Dec2024 02:28:44.548] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_5
+[18Dec2024 02:28:44.550] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_animal_pen_2
+[18Dec2024 02:28:44.552] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_cartographer_1
+[18Dec2024 02:28:44.570] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_butcher_1
+[18Dec2024 02:28:44.582] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_animal_pen_1
+[18Dec2024 02:28:48.148] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_03
+[18Dec2024 02:28:48.901] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/warm/whole
+[18Dec2024 02:28:48.913] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/cold/whole
+[18Dec2024 02:28:49.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11163ms or 223 ticks behind
+[18Dec2024 02:28:50.224] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:28:53.354] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_2
+[18Dec2024 02:28:54.814] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:badlands_pyramid/whole
+[18Dec2024 02:28:54.853] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[18Dec2024 02:28:54.882] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[18Dec2024 02:28:54.891] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[18Dec2024 02:29:01.970] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/tower
+[18Dec2024 02:29:02.342] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_7
+[18Dec2024 02:29:02.343] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/vindicator
+[18Dec2024 02:29:02.346] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/archivist
+[18Dec2024 02:29:02.442] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_8
+[18Dec2024 02:29:02.446] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/provoker
+[18Dec2024 02:29:02.447] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/marauder
+[18Dec2024 02:29:09.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4404ms or 88 ticks behind
+[18Dec2024 02:29:13.580] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/left_no_rooms
+[18Dec2024 02:29:15.308] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_right_no_rooms
+[18Dec2024 02:29:15.316] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_left_room
+[18Dec2024 02:29:15.361] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/tower
+[18Dec2024 02:29:15.378] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/provoker
+[18Dec2024 02:29:15.379] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/archivist
+[18Dec2024 02:29:15.391] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/vindicator
+[18Dec2024 02:29:15.392] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/basher
+[18Dec2024 02:29:15.394] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/evoker
+[18Dec2024 02:29:15.600] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_no_rooms
+[18Dec2024 02:29:15.653] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_7
+[18Dec2024 02:29:15.668] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_9
+[18Dec2024 02:29:15.673] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[18Dec2024 02:29:15.741] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/right_no_rooms
+[18Dec2024 02:29:15.764] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_8
+[18Dec2024 02:29:17.919] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_1
+[18Dec2024 02:29:20.488] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/left_no_rooms
+[18Dec2024 02:29:20.625] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/tower
+[18Dec2024 02:29:20.631] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_no_rooms
+[18Dec2024 02:29:22.023] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_left_room
+[18Dec2024 02:29:22.030] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_7
+[18Dec2024 02:29:22.035] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/vindicator
+[18Dec2024 02:29:22.041] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/archivist
+[18Dec2024 02:29:22.232] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:player_house/feature_plate_1
+[18Dec2024 02:29:22.577] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:player_house/house_1
+[18Dec2024 02:29:23.197] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_no_rooms
+[18Dec2024 02:29:23.199] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_two_rooms
+[18Dec2024 02:29:24.678] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_5
+[18Dec2024 02:29:24.683] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_9
+[18Dec2024 02:29:24.685] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_left_room
+[18Dec2024 02:29:24.686] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/marauder
+[18Dec2024 02:29:24.688] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/vindicator
+[18Dec2024 02:29:24.854] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:player_house/feature_farm_3
+[18Dec2024 02:29:25.425] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:29:25.655] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[18Dec2024 02:29:25.866] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_1
+[18Dec2024 02:29:27.501] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_03
+[18Dec2024 02:29:27.885] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[18Dec2024 02:29:31.251] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_no_rooms
+[18Dec2024 02:29:31.259] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/left_no_rooms
+[18Dec2024 02:29:31.347] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_no_rooms
+[18Dec2024 02:29:31.447] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_5
+[18Dec2024 02:29:33.416] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_left_room
+[18Dec2024 02:29:34.383] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:sorcerer_hut/sorcerer_hut
+[18Dec2024 02:29:36.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12701ms or 254 ticks behind
+[18Dec2024 02:29:40.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii has made the advancement [Diamonds!]
+[18Dec2024 02:29:46.765] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/left_no_rooms
+[18Dec2024 02:29:46.768] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_no_rooms
+[18Dec2024 02:29:47.440] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_no_rooms
+[18Dec2024 02:29:48.222] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:29:48.382] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:firecaller_hut/base_plate
+[18Dec2024 02:29:49.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii has made the advancement [Acquire Hardware]
+[18Dec2024 02:29:58.700] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['elbasto_'/1908, l='ServerLevel[world]', x=100.64, y=60.89, z=-470.59]
+[18Dec2024 02:29:59.197] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_2
+[18Dec2024 02:30:02.451] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['elbasto_'/1908, l='ServerLevel[world]', x=110.05, y=62.88, z=-478.69], dimensionLocationPath overworld
+[18Dec2024 02:30:02.453] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['elbasto_'/1908, l='ServerLevel[world]', x=110.05, y=62.88, z=-478.69] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1c5]
+[18Dec2024 02:30:03.213] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[18Dec2024 02:30:04.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12756ms or 255 ticks behind
+[18Dec2024 02:30:05.070] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:castle
+[18Dec2024 02:30:05.161] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/horse
+[18Dec2024 02:30:10.902] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:sorcerer_hut/sorcerer_hut
+[18Dec2024 02:30:11.131] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:30:12.544] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[18Dec2024 02:30:17.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasto_ has made the advancement [Monster Hunter]
+[18Dec2024 02:30:17.519] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:30:18.796] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[18Dec2024 02:30:22.196] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:castle
+[18Dec2024 02:30:22.255] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/skeleton
+[18Dec2024 02:30:27.607] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[18Dec2024 02:30:27.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii has made the advancement [Disme A Dozen]
+[18Dec2024 02:30:29.314] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_2
+[18Dec2024 02:30:32.087] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:30:33.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13681ms or 273 ticks behind
+[18Dec2024 02:30:36.499] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:castle
+[18Dec2024 02:30:40.640] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[18Dec2024 02:30:53.034] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/roads/t_2 is being run through DFU (hash d09fa61dfc2f8b0fbcc05b5931ca2de4dcc05141471602d323f6e9579ca56ffe), this will cause launch time delays
+[18Dec2024 02:30:53.057] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/house/small_1 is being run through DFU (hash 530fbe4fc1856fe7806067c47b2967d1f59d2d223ab87deb5e9c7e05ec8aec6b), this will cause launch time delays
+[18Dec2024 02:30:53.083] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/house/small_2 is being run through DFU (hash 84b5c48b59824f337d2d197dbc45a3f7a1d34fb9dfc9dbe2d2031345275a98f3), this will cause launch time delays
+[18Dec2024 02:30:53.115] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/house/small_3 is being run through DFU (hash 877641db5b13a5404e364c94b343db6964ba21e4db2007ac0f31b66deaa04289), this will cause launch time delays
+[18Dec2024 02:30:53.152] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/house/small_4 is being run through DFU (hash 0c73a298925f250c805b88f2f5415680030c18dc6671fafcfafa0fa0e9d367e1), this will cause launch time delays
+[18Dec2024 02:30:53.189] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/house/big_3 is being run through DFU (hash 80c5853c58a99ea7bf4d973629104f941015e25f9e4c681a324686f1c03a3a8a), this will cause launch time delays
+[18Dec2024 02:30:53.283] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/house/mid_1 is being run through DFU (hash 5a9572bd51355918bfe4061dfa51cd240a1c82514d723314c414ad29a1a843b6), this will cause launch time delays
+[18Dec2024 02:30:53.367] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/house/mid_2 is being run through DFU (hash 970169706aba8f3e97644dcb7049b95c17b043f15dc4aaf6db69b87bb738ad32), this will cause launch time delays
+[18Dec2024 02:30:53.421] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/house/big_1 is being run through DFU (hash 3c663e351348868fc499af42ea99b395fa6efd02125fb52cb8074782babd8a4d), this will cause launch time delays
+[18Dec2024 02:30:53.530] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/house/big_2 is being run through DFU (hash 908ee942c265f44a9189e809838b3b73d5408d21151fc1d7004b04dfa3e154ae), this will cause launch time delays
+[18Dec2024 02:30:53.629] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/jobsite/butcher is being run through DFU (hash 54402bc38fbf77aacf4ab0c96ee4e1b233d3cf3fc2c52d77cb53b26b21102e93), this will cause launch time delays
+[18Dec2024 02:30:53.672] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/jobsite/cartographer is being run through DFU (hash b80ada6b8db1036997ccc68c49c165550df69fac5ee1d97674dcdfc6db0a110f), this will cause launch time delays
+[18Dec2024 02:30:53.702] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/jobsite/chemist is being run through DFU (hash 48e4c8e15cf8ba50ba0877514bdb98c7ada96ca03177169cd4cd418373f246e0), this will cause launch time delays
+[18Dec2024 02:30:53.739] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/jobsite/fishing_hut is being run through DFU (hash 3459fe90b494cb2333eea8effc8218f2ca525efa90b496a485dc2a08297cc52e), this will cause launch time delays
+[18Dec2024 02:30:53.774] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/jobsite/library is being run through DFU (hash de376cf06fae11cb5b2a803f2e30797889556c93d4ae7e8a530c11a138c95f23), this will cause launch time delays
+[18Dec2024 02:30:53.828] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/jobsite/shepherd is being run through DFU (hash 57a3c1590d1ae0ed249a5a3bf6bd90d28c8019bfd4e9d06c33001bb1f13dbd15), this will cause launch time delays
+[18Dec2024 02:30:53.862] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/jobsite/mason is being run through DFU (hash 90effc802019f521697beec76cb859d9df7de578beaca940a694421ecfc9c6fa), this will cause launch time delays
+[18Dec2024 02:30:53.890] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/jobsite/pen is being run through DFU (hash 388300e638c0900403c7b08c341bdf275490c530d3d2597824c14ef215b719f4), this will cause launch time delays
+[18Dec2024 02:30:53.894] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/jobsite/farm is being run through DFU (hash d834b87cd4d769bcad5f5bb138567a23cdede882a2d044cb20f32bbcf7afad70), this will cause launch time delays
+[18Dec2024 02:30:53.925] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/jobsite/smith is being run through DFU (hash 51a9f7311e89d70b978774a9ab106c880c9e4dbbeadb4ccf00500b88bc33d3a7), this will cause launch time delays
+[18Dec2024 02:30:53.948] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of bountiful:village/common/bounty_gazebo
+[18Dec2024 02:30:53.949] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/jobsite/fd_farm is being run through DFU (hash 0721bf179628e563508d727ef86c9a9569559a7842328cb67fa2c57a89895061), this will cause launch time delays
+[18Dec2024 02:30:54.012] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/desert/waystone
+[18Dec2024 02:30:54.013] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/deco/lamp_1 is being run through DFU (hash a742078c1ecb2ec49a6f4bf37062eb9fa4e2b2c825c9e0b06439b01a10178952), this will cause launch time delays
+[18Dec2024 02:30:54.016] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/deco/lamp_2 is being run through DFU (hash e89955eedd9eeeb0fc28587aac3278ec21a6024f2bd9e3541fc0692371a75a0b), this will cause launch time delays
+[18Dec2024 02:30:54.018] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/deco/lamp_3 is being run through DFU (hash 323b788d9cf1a3e176b08b89fd07b64afded0dc230e7d888654a2cf4894b5fd6), this will cause launch time delays
+[18Dec2024 02:30:54.020] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/deco/lamp_4 is being run through DFU (hash a31f22e3f8f04a8a8bf6ce18651f17310b18cb0c9209bb61d4dc5048d42d3db7), this will cause launch time delays
+[18Dec2024 02:30:54.022] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/deco/lamp_5 is being run through DFU (hash 1dc8f0d7ee016beb251b0d3a06d339be240e46fdb10aff4de5c71cd6879f1698), this will cause launch time delays
+[18Dec2024 02:30:54.024] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/deco/well is being run through DFU (hash e96de773e2ba29cd7bb485b09c40473c68a4556698fd088bdb6e9e917b260214), this will cause launch time delays
+[18Dec2024 02:30:54.027] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/deco/bench is being run through DFU (hash 77b1acdf7224c860b91230af0d85eb413c00395a5f2825d2ab2e088d897b0210), this will cause launch time delays
+[18Dec2024 02:30:54.028] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/deco/boat is being run through DFU (hash bd449d6b061806e2143d8c0a39e65100db07d154909ad77ec350dd3a77316ce6), this will cause launch time delays
+[18Dec2024 02:30:54.031] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/deco/lamp_0 is being run through DFU (hash 77b21f5ca14537315fbb8633b54cd3268e8a17996a05f7f3bb4e17310f516b40), this will cause launch time delays
+[18Dec2024 02:30:54.040] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/roads/t_3 is being run through DFU (hash 9d7e17a4888834f030ba03cbc3ad7ca45d1491e095989a99f14a833e1e32dd6a), this will cause launch time delays
+[18Dec2024 02:30:54.054] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/roads/t_1 is being run through DFU (hash 240844057168ff6bfa1e39aad7a2870902f0b96eb5b64dbdead56c68176dc30d), this will cause launch time delays
+[18Dec2024 02:30:54.068] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/roads/inter is being run through DFU (hash 5c291aa99aa71b679e636e696c96d3ad2d8b20aa8ef0c7ef772944540df03ba9), this will cause launch time delays
+[18Dec2024 02:30:54.084] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/roads/straight is being run through DFU (hash ac6355e2e9589162d9bc5fc97fef49edadc69ece81f579f78169b6e4b5d151c7), this will cause launch time delays
+[18Dec2024 02:30:54.115] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/sheep
+[18Dec2024 02:30:54.629] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/roads/bent_1 is being run through DFU (hash c946c47a784ab2756b5eaa87c86b1758076e90c322e67ea08ce8291a11875b17), this will cause launch time delays
+[18Dec2024 02:30:54.959] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/roads/bent_2 is being run through DFU (hash faa5b858e9bb4de13783abdf33b3889deb4f239e047de88544ff93dc86c77673), this will cause launch time delays
+[18Dec2024 02:30:54.967] [Worker-Main-14/DEBUG] [ModernFix/]: Structure ctov:village/beach/roads/terminator is being run through DFU (hash f6405405e69c80d4accb776136e923e3150f9aafd011193bb71ff2ea04f7d6d5), this will cause launch time delays
+[18Dec2024 02:30:57.886] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[18Dec2024 02:30:58.283] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_04
+[18Dec2024 02:30:58.544] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:31:03.347] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_1
+[18Dec2024 02:31:03.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15325ms or 306 ticks behind
+[18Dec2024 02:31:05.679] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_03
+[18Dec2024 02:31:10.283] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[18Dec2024 02:31:14.970] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_1
+[18Dec2024 02:31:18.294] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_03
+[18Dec2024 02:31:18.367] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/turn_01
+[18Dec2024 02:31:18.369] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_04
+[18Dec2024 02:31:18.416] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_01
+[18Dec2024 02:31:18.418] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_animal_pen_1
+[18Dec2024 02:31:18.451] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_02
+[18Dec2024 02:31:18.454] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_mason_1
+[18Dec2024 02:31:18.456] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_7
+[18Dec2024 02:31:24.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5644ms or 112 ticks behind
+[18Dec2024 02:31:26.224] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[18Dec2024 02:31:26.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[18Dec2024 02:31:26.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[18Dec2024 02:31:26.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[18Dec2024 02:31:26.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[18Dec2024 02:31:26.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[18Dec2024 02:31:26.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[18Dec2024 02:31:26.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[18Dec2024 02:31:26.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[18Dec2024 02:31:26.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:processor_condition_type
+[18Dec2024 02:31:26.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[18Dec2024 02:31:26.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[18Dec2024 02:31:26.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[18Dec2024 02:31:26.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[18Dec2024 02:31:26.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[18Dec2024 02:31:26.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[18Dec2024 02:31:26.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:structure_condition_type
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:modifier_type
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:modifier_predicate_type
+[18Dec2024 02:31:26.225] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[18Dec2024 02:31:26.226] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[18Dec2024 02:31:26.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 02:31:26.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 02:31:26.709] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:31:31.955] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:forge/forge_2
+[18Dec2024 02:31:33.593] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_01
+[18Dec2024 02:31:33.638] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_06
+[18Dec2024 02:31:33.639] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_leatherworker_1
+[18Dec2024 02:31:33.644] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_large_house_1
+[18Dec2024 02:31:33.645] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_3
+[18Dec2024 02:31:37.490] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/crashed_carriage
+[18Dec2024 02:31:37.509] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_06
+[18Dec2024 02:31:37.632] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_11
+[18Dec2024 02:31:40.284] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:31:43.033] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_03
+[18Dec2024 02:31:43.035] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_04
+[18Dec2024 02:31:43.036] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_04
+[18Dec2024 02:31:45.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5861ms or 117 ticks behind
+[18Dec2024 02:31:46.463] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_2
+[18Dec2024 02:31:46.504] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:forge/forge_2
+[18Dec2024 02:31:48.703] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[18Dec2024 02:31:49.764] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:altar/altar_01
+[18Dec2024 02:31:49.854] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_01
+[18Dec2024 02:31:51.298] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_02
+[18Dec2024 02:31:51.299] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_01
+[18Dec2024 02:31:51.481] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_02
+[18Dec2024 02:31:51.483] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_02
+[18Dec2024 02:31:51.497] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_04
+[18Dec2024 02:31:51.499] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_large_house_1
+[18Dec2024 02:31:51.500] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_3
+[18Dec2024 02:31:51.525] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[18Dec2024 02:31:51.528] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[18Dec2024 02:31:51.597] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_05
+[18Dec2024 02:31:52.903] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/villagers/villager_stal
+[18Dec2024 02:31:53.380] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_05
+[18Dec2024 02:31:54.581] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_farm_1
+[18Dec2024 02:31:58.858] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[18Dec2024 02:31:58.866] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[18Dec2024 02:31:58.894] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[18Dec2024 02:31:58.914] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[18Dec2024 02:31:58.923] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[18Dec2024 02:31:58.935] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[18Dec2024 02:31:58.944] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[18Dec2024 02:31:58.948] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[18Dec2024 02:31:58.954] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[18Dec2024 02:31:58.958] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[18Dec2024 02:31:58.959] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[18Dec2024 02:31:58.963] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[18Dec2024 02:31:58.969] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[18Dec2024 02:31:58.973] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[18Dec2024 02:31:58.976] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[18Dec2024 02:31:58.979] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[18Dec2024 02:31:58.981] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[18Dec2024 02:31:58.984] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[18Dec2024 02:31:58.988] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[18Dec2024 02:31:58.991] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[18Dec2024 02:31:59.024] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[18Dec2024 02:31:59.033] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[18Dec2024 02:31:59.036] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[18Dec2024 02:31:59.038] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[18Dec2024 02:31:59.039] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[18Dec2024 02:31:59.041] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[18Dec2024 02:31:59.042] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[18Dec2024 02:31:59.044] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[18Dec2024 02:31:59.051] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[18Dec2024 02:31:59.055] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[18Dec2024 02:31:59.277] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[18Dec2024 02:31:59.366] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_07
+[18Dec2024 02:32:00.911] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[18Dec2024 02:32:06.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6420ms or 128 ticks behind
+[18Dec2024 02:32:07.427] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[18Dec2024 02:32:07.434] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[18Dec2024 02:32:10.900] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_02
+[18Dec2024 02:32:10.928] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_05
+[18Dec2024 02:32:11.122] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[18Dec2024 02:32:11.146] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[18Dec2024 02:32:11.154] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_03
+[18Dec2024 02:32:11.156] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_1
+[18Dec2024 02:32:11.670] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_02
+[18Dec2024 02:32:11.673] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_03
+[18Dec2024 02:32:11.673] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_farm_1
+[18Dec2024 02:32:11.674] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_04
+[18Dec2024 02:32:11.675] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_03
+[18Dec2024 02:32:11.687] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_04
+[18Dec2024 02:32:11.722] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:32:13.388] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_7
+[18Dec2024 02:32:13.407] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1
+[18Dec2024 02:32:13.420] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_02
+[18Dec2024 02:32:13.421] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_02
+[18Dec2024 02:32:13.421] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_05
+[18Dec2024 02:32:13.439] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_04
+[18Dec2024 02:32:17.780] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_08
+[18Dec2024 02:32:17.971] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_06
+[18Dec2024 02:32:18.253] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_1
+[18Dec2024 02:32:18.270] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:sorcerer_hut/sorcerer_hut
+[18Dec2024 02:32:19.973] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:badlands_pyramid/whole
+[18Dec2024 02:32:23.031] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[18Dec2024 02:32:23.079] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:ruins/castle_ruin
+[18Dec2024 02:32:23.087] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/pillager_with_sword_1
+[18Dec2024 02:32:23.089] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/pillager_with_axe_1
+[18Dec2024 02:32:23.090] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/pillager_with_crossbow_1
+[18Dec2024 02:32:23.141] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:ruins/tower_ruin_1
+[18Dec2024 02:32:23.182] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1
+[18Dec2024 02:32:23.183] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_03
+[18Dec2024 02:32:23.184] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_01
+[18Dec2024 02:32:23.185] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_06
+[18Dec2024 02:32:23.185] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_05
+[18Dec2024 02:32:23.186] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_02
+[18Dec2024 02:32:23.186] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_3
+[18Dec2024 02:32:23.187] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_mason_1
+[18Dec2024 02:32:23.187] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_04
+[18Dec2024 02:32:23.188] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_04
+[18Dec2024 02:32:23.188] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_02
+[18Dec2024 02:32:23.188] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_03
+[18Dec2024 02:32:23.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_02
+[18Dec2024 02:32:23.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_01
+[18Dec2024 02:32:23.190] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_weaponsmith_1
+[18Dec2024 02:32:23.191] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_01
+[18Dec2024 02:32:23.192] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_1
+[18Dec2024 02:32:23.192] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/turn_01
+[18Dec2024 02:32:23.194] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_temple_1
+[18Dec2024 02:32:23.194] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_6
+[18Dec2024 02:32:23.195] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_animal_pen_1
+[18Dec2024 02:32:23.196] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_06
+[18Dec2024 02:32:23.197] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_farm_1
+[18Dec2024 02:32:23.197] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_01
+[18Dec2024 02:32:23.198] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_7
+[18Dec2024 02:32:23.199] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_leatherworker_1
+[18Dec2024 02:32:23.199] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_2
+[18Dec2024 02:32:23.200] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_large_house_1
+[18Dec2024 02:32:23.201] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_animal_pen_3
+[18Dec2024 02:32:23.202] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_butcher_1
+[18Dec2024 02:32:23.204] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_05
+[18Dec2024 02:32:23.204] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_shepherd_1
+[18Dec2024 02:32:23.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_8
+[18Dec2024 02:32:23.206] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_03
+[18Dec2024 02:32:23.207] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_03
+[18Dec2024 02:32:23.207] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_04
+[18Dec2024 02:32:23.470] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[18Dec2024 02:32:24.315] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_4
+[18Dec2024 02:32:26.299] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_10
+[18Dec2024 02:32:26.460] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_09
+[18Dec2024 02:32:26.687] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_2
+[18Dec2024 02:32:30.004] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:medium_graveyard/medium_graveyard_01
+[18Dec2024 02:32:30.277] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/cold/whole
+[18Dec2024 02:32:30.299] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/warm/whole
+[18Dec2024 02:32:33.381] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_toolsmith_1
+[18Dec2024 02:32:33.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11988ms or 239 ticks behind
+[18Dec2024 02:32:34.464] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[18Dec2024 02:32:37.301] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/straight
+[18Dec2024 02:32:37.302] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/terminator
+[18Dec2024 02:32:37.302] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_2
+[18Dec2024 02:32:37.824] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_animal_pen_2
+[18Dec2024 02:32:42.099] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[18Dec2024 02:32:42.108] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[18Dec2024 02:32:42.189] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[18Dec2024 02:32:42.287] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:sorcerer_hut/sorcerer_hut
+[18Dec2024 02:32:42.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Danynii> [name:"wawawa", x:-736, y:75, z:-912, dim:minecraft:overworld]
+[18Dec2024 02:32:44.398] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[18Dec2024 02:32:46.338] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[18Dec2024 02:32:46.347] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[18Dec2024 02:32:46.356] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[18Dec2024 02:32:46.362] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[18Dec2024 02:32:46.364] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[18Dec2024 02:32:46.369] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[18Dec2024 02:32:46.620] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[18Dec2024 02:32:46.631] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[18Dec2024 02:32:46.634] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[18Dec2024 02:32:46.635] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[18Dec2024 02:32:46.725] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[18Dec2024 02:32:47.089] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[18Dec2024 02:32:47.093] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[18Dec2024 02:32:57.743] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[18Dec2024 02:32:59.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10749ms or 214 ticks behind
+[18Dec2024 02:33:07.900] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of autumnity:maple_hut/maple_hut
+[18Dec2024 02:33:25.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11703ms or 234 ticks behind
+[18Dec2024 02:33:35.752] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:desert_house/desert_house
+[18Dec2024 02:33:39.040] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_10
+[18Dec2024 02:33:49.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8913ms or 178 ticks behind
+[18Dec2024 02:34:09.675] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[18Dec2024 02:34:14.997] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[18Dec2024 02:34:16.504] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11749ms or 234 ticks behind
+[18Dec2024 02:34:19.880] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['elbasto_'/1908, l='ServerLevel[world]', x=88.35, y=60.09, z=-511.84]
+[18Dec2024 02:34:20.396] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:sorcerer_hut/sorcerer_hut
+[18Dec2024 02:34:20.767] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['elbasto_'/1908, l='ServerLevel[world]', x=86.13, y=62.76, z=-510.70], dimensionLocationPath overworld
+[18Dec2024 02:34:20.768] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['elbasto_'/1908, l='ServerLevel[world]', x=86.13, y=62.76, z=-510.70] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1c5]

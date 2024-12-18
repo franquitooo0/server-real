@@ -368,14 +368,18 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "mauve_hills": "2024-12-18 02:14:45 +0000",
-      "rocky_meadow": "2024-12-18 01:38:56 +0000"
+      "pine_taiga": "2024-12-18 02:27:46 +0000",
+      "rocky_meadow": "2024-12-18 01:38:56 +0000",
+      "temperate_grove": "2024-12-18 02:27:03 +0000"
     },
     "done": false
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
       "mauve_hills": "2024-12-18 02:14:45 +0000",
-      "rocky_meadow": "2024-12-18 01:38:56 +0000"
+      "pine_taiga": "2024-12-18 02:27:46 +0000",
+      "rocky_meadow": "2024-12-18 01:38:56 +0000",
+      "temperate_grove": "2024-12-18 02:27:03 +0000"
     },
     "done": false
   },
@@ -397,8 +401,16 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-18 02:28:28 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2024-12-18 02:26:41 +0000",
+      "rocky_shrubland": "2024-12-18 02:25:36 +0000",
       "scrubland": "2024-12-18 02:21:26 +0000"
     },
     "done": false
@@ -411,21 +423,37 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2024-12-18 02:27:50 +0000",
       "opened_chest": "2024-12-18 02:19:00 +0000"
     },
     "done": false
   },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2024-12-18 02:29:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2024-12-18 02:23:06 +0000",
       "minecraft:savanna_plateau": "2024-12-18 02:21:32 +0000",
       "minecraft:river": "2024-12-18 02:14:50 +0000",
-      "minecraft:savanna": "2024-12-18 02:18:08 +0000"
+      "minecraft:forest": "2024-12-18 02:27:06 +0000",
+      "minecraft:savanna": "2024-12-18 02:18:08 +0000",
+      "minecraft:plains": "2024-12-18 02:26:20 +0000"
     },
     "done": false
   },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "golden_knife": "2024-12-18 02:19:01 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2024-12-18 02:29:49 +0000"
     },
     "done": true
   },
@@ -437,6 +465,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-12-18 02:28:38 +0000",
       "mutton": "2024-12-18 02:20:12 +0000",
       "chicken": "2024-12-18 02:17:52 +0000",
       "golden_apple": "2024-12-18 02:22:44 +0000"
@@ -452,6 +481,36 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-18 02:17:52 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-12-18 02:30:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-18 02:29:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-18 02:23:54 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-18 02:27:50 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutters": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:29:49 +0000"
     },
     "done": true
   },
@@ -479,9 +538,27 @@
     },
     "done": true
   },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2024-12-18 02:29:49 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:story/root": {
     "criteria": {
       "obtain_crafting_table": "2024-12-18 02:13:56 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:27:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-18 02:29:49 +0000"
     },
     "done": true
   },
