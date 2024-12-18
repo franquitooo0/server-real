@@ -2132,3 +2132,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Dec2024 01:39:41.164] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danynii lost connection: Disconnected
 [18Dec2024 01:39:41.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii left the game
 [18Dec2024 01:40:39.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[18Dec2024 01:46:24.143] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[18Dec2024 01:48:59.560] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Franquito0 lost connection: Disconnected
+[18Dec2024 01:48:59.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franquito0 left the game
