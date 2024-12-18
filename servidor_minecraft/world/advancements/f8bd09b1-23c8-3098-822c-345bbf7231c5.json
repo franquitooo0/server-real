@@ -368,17 +368,23 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "mauve_hills": "2024-12-18 02:16:49 +0000",
+      "pine_taiga": "2024-12-18 02:43:04 +0000",
+      "willow_forest": "2024-12-18 02:35:01 +0000",
       "rocky_meadow": "2024-12-18 02:10:33 +0000",
-      "magnolia_highlands": "2024-12-18 02:30:37 +0000"
+      "magnolia_highlands": "2024-12-18 02:30:37 +0000",
+      "temperate_grove": "2024-12-18 02:37:34 +0000"
     },
     "done": false
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
       "mauve_hills": "2024-12-18 02:16:49 +0000",
+      "pine_taiga": "2024-12-18 02:43:04 +0000",
+      "willow_forest": "2024-12-18 02:35:01 +0000",
       "redstone_caves": "2024-12-18 02:20:33 +0000",
       "rocky_meadow": "2024-12-18 02:10:33 +0000",
-      "magnolia_highlands": "2024-12-18 02:30:37 +0000"
+      "magnolia_highlands": "2024-12-18 02:30:37 +0000",
+      "temperate_grove": "2024-12-18 02:37:34 +0000"
     },
     "done": false
   },
@@ -410,7 +416,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:creeper": "2024-12-18 02:30:17 +0000"
+      "minecraft:skeleton": "2024-12-18 02:39:49 +0000",
+      "minecraft:spider": "2024-12-18 02:37:40 +0000",
+      "minecraft:creeper": "2024-12-18 02:30:17 +0000",
+      "minecraft:zombie": "2024-12-18 02:31:32 +0000"
     },
     "done": false
   },
@@ -422,7 +431,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:river": "2024-12-18 02:16:46 +0000"
+      "minecraft:river": "2024-12-18 02:16:46 +0000",
+      "minecraft:forest": "2024-12-18 02:42:45 +0000"
     },
     "done": false
   },
@@ -434,6 +444,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-18 02:38:43 +0000",
       "cooked_beef": "2024-12-18 02:26:40 +0000"
     },
     "done": false
@@ -458,6 +469,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "magnolia_log": "2024-12-18 02:32:28 +0000",
       "mauve_log": "2024-12-18 02:16:58 +0000",
       "silver_birch_log": "2024-12-18 02:20:54 +0000"
     },

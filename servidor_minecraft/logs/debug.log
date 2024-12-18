@@ -18292,3 +18292,326 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Dec2024 02:34:20.396] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:sorcerer_hut/sorcerer_hut
 [18Dec2024 02:34:20.767] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['elbasto_'/1908, l='ServerLevel[world]', x=86.13, y=62.76, z=-510.70], dimensionLocationPath overworld
 [18Dec2024 02:34:20.768] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['elbasto_'/1908, l='ServerLevel[world]', x=86.13, y=62.76, z=-510.70] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1c5]
+[18Dec2024 02:34:35.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[18Dec2024 02:34:40.264] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:34:51.878] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:34:52.009] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_2
+[18Dec2024 02:34:55.905] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:player_house/house_2
+[18Dec2024 02:34:55.910] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:player_house/feature_farm_1
+[18Dec2024 02:34:55.911] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:player_house/feature_plate_1
+[18Dec2024 02:34:55.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:player_house/feature_chicken
+[18Dec2024 02:34:55.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/chickens/chicken_3
+[18Dec2024 02:34:55.913] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/chickens/chicken_2
+[18Dec2024 02:34:55.941] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:ruins/tower_ruin_3
+[18Dec2024 02:34:55.949] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/pillager_with_sword_1
+[18Dec2024 02:34:55.950] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/pillager_with_crossbow_1
+[18Dec2024 02:35:00.624] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_2
+[18Dec2024 02:35:01.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11464ms or 229 ticks behind
+[18Dec2024 02:35:14.670] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_2
+[18Dec2024 02:35:28.314] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_1
+[18Dec2024 02:35:30.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13646ms or 272 ticks behind
+[18Dec2024 02:35:35.635] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['elbasto_'/1908, l='ServerLevel[world]', x=-79.41, y=61.33, z=-555.70]
+[18Dec2024 02:35:35.769] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['elbasto_'/1908, l='ServerLevel[world]', x=-79.41, y=61.39, z=-555.70], dimensionLocationPath overworld
+[18Dec2024 02:35:35.769] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['elbasto_'/1908, l='ServerLevel[world]', x=-79.41, y=61.39, z=-555.70] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1c5]
+[18Dec2024 02:35:36.254] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_1
+[18Dec2024 02:35:36.367] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[18Dec2024 02:35:36.370] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[18Dec2024 02:35:46.286] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['elbasto_'/1908, l='ServerLevel[world]', x=-121.61, y=61.33, z=-580.54]
+[18Dec2024 02:35:47.264] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['elbasto_'/1908, l='ServerLevel[world]', x=-124.74, y=62.74, z=-581.16], dimensionLocationPath overworld
+[18Dec2024 02:35:47.265] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['elbasto_'/1908, l='ServerLevel[world]', x=-124.74, y=62.74, z=-581.16] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1c5]
+[18Dec2024 02:35:48.821] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:35:48.998] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_2
+[18Dec2024 02:35:52.941] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[18Dec2024 02:35:52.977] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[18Dec2024 02:35:54.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9478ms or 189 ticks behind
+[18Dec2024 02:35:55.943] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:player_house/house_2
+[18Dec2024 02:35:55.948] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:player_house/feature_chicken
+[18Dec2024 02:35:55.949] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/chickens/chicken_3
+[18Dec2024 02:35:55.972] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/chickens/chicken_2
+[18Dec2024 02:35:56.813] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:player_house/feature_farm_1
+[18Dec2024 02:35:57.760] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_06
+[18Dec2024 02:35:58.414] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[18Dec2024 02:35:59.494] [Worker-Main-15/DEBUG] [ModernFix/]: Structure iceandfire:village/taiga_scriber_1 is being run through DFU (hash 46cb42baa6f67fe14d959fb0ea6208ae9fb55c570235dea6c716e52055308238), this will cause launch time delays
+[18Dec2024 02:35:59.735] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of bountiful:village/common/bounty_gazebo
+[18Dec2024 02:35:59.736] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[18Dec2024 02:36:06.413] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-63, y=63, z=-27}
+[18Dec2024 02:36:06.578] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:ruins/tower_ruin_3
+[18Dec2024 02:36:06.666] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:player_house/feature_plate_1
+[18Dec2024 02:36:10.342] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:ruins/tower_ruin_3
+[18Dec2024 02:36:10.364] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/pillager_with_sword_1
+[18Dec2024 02:36:10.373] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/pillager_with_crossbow_1
+[18Dec2024 02:36:14.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4728ms or 94 ticks behind
+[18Dec2024 02:36:30.814] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:36:32.144] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:badlands_pyramid/whole
+[18Dec2024 02:36:36.350] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:36:36.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7476ms or 149 ticks behind
+[18Dec2024 02:37:08.546] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2691ms or 53 ticks behind
+[18Dec2024 02:37:27.646] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[18Dec2024 02:37:28.920] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:sorcerer_hut/sorcerer_hut
+[18Dec2024 02:37:28.965] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:37:33.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9802ms or 196 ticks behind
+[18Dec2024 02:37:38.757] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_2
+[18Dec2024 02:37:43.218] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Danynii'/453, l='ServerLevel[world]', x=-810.40, y=61.00, z=-911.69]
+[18Dec2024 02:37:43.652] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_2
+[18Dec2024 02:37:43.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Franquito0: Teleported Franquito0 to Danynii]
+[18Dec2024 02:37:44.547] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Danynii'/453, l='ServerLevel[world]', x=-810.61, y=61.86, z=-912.12], dimensionLocationPath overworld
+[18Dec2024 02:37:44.548] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Danynii'/453, l='ServerLevel[world]', x=-810.61, y=61.86, z=-912.12] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@774]
+[18Dec2024 02:37:44.700] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:37:50.431] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Danynii'/453, l='ServerLevel[world]', x=-811.30, y=61.17, z=-908.67]
+[18Dec2024 02:37:51.388] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Danynii'/453, l='ServerLevel[world]', x=-810.82, y=61.00, z=-909.74], dimensionLocationPath overworld
+[18Dec2024 02:37:51.389] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Danynii'/453, l='ServerLevel[world]', x=-810.82, y=61.00, z=-909.74] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@774]
+[18Dec2024 02:37:54.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6463ms or 129 ticks behind
+[18Dec2024 02:38:14.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4446ms or 88 ticks behind
+[18Dec2024 02:38:44.583] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:processor_condition_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:structure_condition_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:modifier_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:modifier_predicate_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[18Dec2024 02:38:44.584] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[18Dec2024 02:38:44.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 02:38:44.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 02:38:49.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2179ms or 43 ticks behind
+[18Dec2024 02:39:22.100] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_2
+[18Dec2024 02:39:23.534] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_06
+[18Dec2024 02:39:23.585] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_03
+[18Dec2024 02:39:23.595] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:39:25.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[18Dec2024 02:39:26.699] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_03
+[18Dec2024 02:39:26.700] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_farm_1
+[18Dec2024 02:39:30.511] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_01
+[18Dec2024 02:39:30.514] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_04
+[18Dec2024 02:39:33.227] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_2
+[18Dec2024 02:39:33.333] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_1
+[18Dec2024 02:39:41.205] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[18Dec2024 02:39:45.987] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_03
+[18Dec2024 02:39:45.988] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_4
+[18Dec2024 02:39:45.991] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_04
+[18Dec2024 02:39:45.991] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_2
+[18Dec2024 02:39:46.010] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_farm_1
+[18Dec2024 02:39:46.011] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_animal_pen_3
+[18Dec2024 02:39:46.012] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_01
+[18Dec2024 02:39:49.589] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9034ms or 180 ticks behind
+[18Dec2024 02:39:58.446] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_01
+[18Dec2024 02:39:58.515] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_04
+[18Dec2024 02:39:58.554] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:39:59.035] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_02
+[18Dec2024 02:39:59.038] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_03
+[18Dec2024 02:39:59.044] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_4
+[18Dec2024 02:39:59.051] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_01
+[18Dec2024 02:39:59.090] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_farm_1
+[18Dec2024 02:39:59.095] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_animal_pen_3
+[18Dec2024 02:39:59.096] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_2
+[18Dec2024 02:40:00.229] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['elbasto_'/1908, l='ServerLevel[world]', x=-298.29, y=51.64, z=-690.78]
+[18Dec2024 02:40:02.557] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['elbasto_'/1908, l='ServerLevel[world]', x=-298.34, y=54.36, z=-690.30], dimensionLocationPath overworld
+[18Dec2024 02:40:02.557] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['elbasto_'/1908, l='ServerLevel[world]', x=-298.34, y=54.36, z=-690.30] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1c5]
+[18Dec2024 02:40:07.660] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:40:12.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8076ms or 161 ticks behind
+[18Dec2024 02:40:16.241] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['elbasto_'/1908, l='ServerLevel[world]', x=-294.99, y=45.08, z=-684.87]
+[18Dec2024 02:40:16.285] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['elbasto_'/1908, l='ServerLevel[world]', x=-295.05, y=44.66, z=-684.62], dimensionLocationPath overworld
+[18Dec2024 02:40:16.286] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['elbasto_'/1908, l='ServerLevel[world]', x=-295.05, y=44.66, z=-684.62] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1c5]
+[18Dec2024 02:40:41.766] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:40:41.769] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_02
+[18Dec2024 02:40:41.770] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_01
+[18Dec2024 02:40:41.771] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_03
+[18Dec2024 02:40:41.772] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_animal_pen_3
+[18Dec2024 02:40:41.773] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_3
+[18Dec2024 02:40:41.774] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_4
+[18Dec2024 02:40:41.775] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_01
+[18Dec2024 02:40:53.836] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_03
+[18Dec2024 02:40:53.840] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_4
+[18Dec2024 02:40:53.843] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_02
+[18Dec2024 02:40:53.845] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_toolsmith_1
+[18Dec2024 02:41:05.280] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_2
+[18Dec2024 02:41:05.297] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_02
+[18Dec2024 02:41:05.300] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_06
+[18Dec2024 02:41:05.305] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_toolsmith_1
+[18Dec2024 02:41:05.307] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_03
+[18Dec2024 02:41:06.344] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_04
+[18Dec2024 02:41:06.345] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_03
+[18Dec2024 02:41:24.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2247ms or 44 ticks behind
+[18Dec2024 02:41:43.777] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Danynii'/453, l='ServerLevel[world]', x=-740.20, y=63.06, z=-913.78]
+[18Dec2024 02:41:49.846] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_17
+[18Dec2024 02:41:57.437] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[18Dec2024 02:41:59.871] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_1
+[18Dec2024 02:42:18.855] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/15324, l='ServerLevel[world]', x=-736.30, y=64.32, z=-912.82], dimensionLocationPath overworld
+[18Dec2024 02:42:18.855] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/15324, l='ServerLevel[world]', x=-736.30, y=64.32, z=-912.82] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@774]
+[18Dec2024 02:42:20.857] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/15324, l='ServerLevel[world]', x=-735.13, y=63.00, z=-912.68, removed=DISCARDED]
+[18Dec2024 02:42:22.024] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Danynii'/453, l='ServerLevel[world]', x=-735.69, y=63.00, z=-912.25], dimensionLocationPath overworld
+[18Dec2024 02:42:22.024] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Danynii'/453, l='ServerLevel[world]', x=-735.69, y=63.00, z=-912.25] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@774]
+[18Dec2024 02:42:28.890] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_1
+[18Dec2024 02:42:30.620] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['elbasto_'/1908, l='ServerLevel[world]', x=-522.20, y=61.18, z=-749.68]
+[18Dec2024 02:42:31.997] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['elbasto_'/1908, l='ServerLevel[world]', x=-524.33, y=62.61, z=-748.84], dimensionLocationPath overworld
+[18Dec2024 02:42:31.998] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['elbasto_'/1908, l='ServerLevel[world]', x=-524.33, y=62.61, z=-748.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1c5]
+[18Dec2024 02:42:54.738] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:sorcerer_hut/sorcerer_hut
+[18Dec2024 02:43:10.789] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:43:34.423] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[18Dec2024 02:43:36.253] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[18Dec2024 02:43:39.748] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['elbasto_'/1908, l='ServerLevel[world]', x=-626.19, y=61.77, z=-890.24]
+[18Dec2024 02:43:39.968] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[18Dec2024 02:43:40.062] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[18Dec2024 02:43:40.073] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[18Dec2024 02:43:41.760] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['elbasto_'/1908, l='ServerLevel[world]', x=-632.26, y=62.60, z=-892.99], dimensionLocationPath overworld
+[18Dec2024 02:43:41.760] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['elbasto_'/1908, l='ServerLevel[world]', x=-632.26, y=62.60, z=-892.99] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1c5]
+[18Dec2024 02:43:45.903] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:43:46.251] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[18Dec2024 02:44:09.516] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[18Dec2024 02:44:09.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[18Dec2024 02:44:09.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[18Dec2024 02:44:09.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[18Dec2024 02:44:09.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[18Dec2024 02:44:09.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[18Dec2024 02:44:09.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[18Dec2024 02:44:09.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[18Dec2024 02:44:09.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[18Dec2024 02:44:09.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:processor_condition_type
+[18Dec2024 02:44:09.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[18Dec2024 02:44:09.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[18Dec2024 02:44:09.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[18Dec2024 02:44:09.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[18Dec2024 02:44:09.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[18Dec2024 02:44:09.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[18Dec2024 02:44:09.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[18Dec2024 02:44:09.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[18Dec2024 02:44:09.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[18Dec2024 02:44:09.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[18Dec2024 02:44:09.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[18Dec2024 02:44:09.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[18Dec2024 02:44:09.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[18Dec2024 02:44:09.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[18Dec2024 02:44:09.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[18Dec2024 02:44:09.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[18Dec2024 02:44:09.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[18Dec2024 02:44:09.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[18Dec2024 02:44:09.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[18Dec2024 02:44:09.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[18Dec2024 02:44:09.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[18Dec2024 02:44:09.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[18Dec2024 02:44:09.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[18Dec2024 02:44:09.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[18Dec2024 02:44:09.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[18Dec2024 02:44:09.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[18Dec2024 02:44:09.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:structure_condition_type
+[18Dec2024 02:44:09.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[18Dec2024 02:44:09.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[18Dec2024 02:44:09.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[18Dec2024 02:44:09.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[18Dec2024 02:44:09.518] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[18Dec2024 02:44:09.518] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[18Dec2024 02:44:09.518] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[18Dec2024 02:44:09.518] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[18Dec2024 02:44:09.518] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[18Dec2024 02:44:09.518] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[18Dec2024 02:44:09.518] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[18Dec2024 02:44:09.518] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[18Dec2024 02:44:09.518] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[18Dec2024 02:44:09.518] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[18Dec2024 02:44:09.518] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[18Dec2024 02:44:09.518] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[18Dec2024 02:44:09.518] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[18Dec2024 02:44:09.518] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[18Dec2024 02:44:09.518] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[18Dec2024 02:44:09.518] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[18Dec2024 02:44:09.518] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[18Dec2024 02:44:09.518] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[18Dec2024 02:44:09.518] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[18Dec2024 02:44:09.518] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[18Dec2024 02:44:09.518] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[18Dec2024 02:44:09.518] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[18Dec2024 02:44:09.518] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[18Dec2024 02:44:09.518] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[18Dec2024 02:44:09.518] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[18Dec2024 02:44:09.518] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[18Dec2024 02:44:09.519] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[18Dec2024 02:44:09.519] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[18Dec2024 02:44:09.519] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[18Dec2024 02:44:09.519] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[18Dec2024 02:44:09.519] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:modifier_type
+[18Dec2024 02:44:09.519] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:modifier_predicate_type
+[18Dec2024 02:44:09.519] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[18Dec2024 02:44:09.519] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[18Dec2024 02:44:09.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 02:44:09.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 02:44:10.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2283ms or 45 ticks behind
+[18Dec2024 02:44:22.346] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Danynii'/453, l='ServerLevel[world]', x=-705.00, y=60.94, z=-882.32]
+[18Dec2024 02:44:23.478] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Danynii'/453, l='ServerLevel[world]', x=-705.70, y=62.91, z=-886.18], dimensionLocationPath overworld
+[18Dec2024 02:44:23.479] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Danynii'/453, l='ServerLevel[world]', x=-705.70, y=62.91, z=-886.18] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@774]
+[18Dec2024 02:44:28.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasto_ has made the advancement [Barrel Booty]
+[18Dec2024 02:44:35.331] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_2
+[18Dec2024 02:44:35.336] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[18Dec2024 02:44:36.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasto_ has made the advancement ['X' Marks the Spot]
+[18Dec2024 02:44:38.178] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[18Dec2024 02:44:38.208] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[18Dec2024 02:44:40.855] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_06
+[18Dec2024 02:44:45.877] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_01
+[18Dec2024 02:44:46.008] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[18Dec2024 02:44:46.068] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_1
+[18Dec2024 02:44:46.110] [Worker-Main-10/DEBUG] [ModernFix/]: Structure valhelsia_structures:spawner_dungeon/cave_entrance/small_3 is being run through DFU (hash 44ffd933ec75a0e128e84e6ba72a15a8c1c913bd36cb5c0a0aea7ef4f0fd8d44), this will cause launch time delays

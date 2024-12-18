@@ -368,18 +368,22 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "mauve_hills": "2024-12-18 02:15:26 +0000",
+      "pine_taiga": "2024-12-18 02:38:11 +0000",
       "marsh": "2024-12-18 00:54:44 +0000",
       "rocky_meadow": "2024-12-14 05:51:10 +0000",
-      "magnolia_highlands": "2024-12-18 00:52:25 +0000"
+      "magnolia_highlands": "2024-12-18 00:52:25 +0000",
+      "temperate_grove": "2024-12-18 02:37:43 +0000"
     },
     "done": false
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
       "mauve_hills": "2024-12-18 02:15:26 +0000",
+      "pine_taiga": "2024-12-18 02:38:11 +0000",
       "marsh": "2024-12-18 00:54:44 +0000",
       "rocky_meadow": "2024-12-14 05:51:10 +0000",
-      "magnolia_highlands": "2024-12-18 00:52:25 +0000"
+      "magnolia_highlands": "2024-12-18 00:52:25 +0000",
+      "temperate_grove": "2024-12-18 02:37:43 +0000"
     },
     "done": false
   },
@@ -391,7 +395,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:river": "2024-12-14 05:55:17 +0000"
+      "minecraft:river": "2024-12-14 05:55:17 +0000",
+      "minecraft:forest": "2024-12-18 02:43:27 +0000"
     },
     "done": false
   },

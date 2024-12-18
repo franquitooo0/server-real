@@ -428,6 +428,12 @@
     },
     "done": false
   },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2024-12-18 02:43:33 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/comb": {
     "criteria": {
       "has_item": "2024-12-18 02:29:49 +0000"
@@ -445,9 +451,21 @@
     },
     "done": false
   },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:37:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "golden_knife": "2024-12-18 02:19:01 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/thatch": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:35:14 +0000"
     },
     "done": true
   },
@@ -468,6 +486,7 @@
       "cooked_beef": "2024-12-18 02:28:38 +0000",
       "mutton": "2024-12-18 02:20:12 +0000",
       "chicken": "2024-12-18 02:17:52 +0000",
+      "bread": "2024-12-18 02:43:18 +0000",
       "golden_apple": "2024-12-18 02:22:44 +0000"
     },
     "done": false
@@ -505,6 +524,12 @@
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2024-12-18 02:27:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2024-12-18 02:41:46 +0000"
     },
     "done": true
   },
