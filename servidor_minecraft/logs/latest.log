@@ -2375,3 +2375,30 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Dec2024 03:36:11.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
 [18Dec2024 03:36:33.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2652ms or 53 ticks behind
 [18Dec2024 03:37:01.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13719ms or 274 ticks behind
+[18Dec2024 03:37:25.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Danynii> ya vuelvo
+[18Dec2024 03:37:25.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danynii lost connection: Disconnected
+[18Dec2024 03:37:25.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii left the game
+[18Dec2024 03:37:28.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11828ms or 236 ticks behind
+[18Dec2024 03:38:10.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[18Dec2024 03:38:46.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasto_ was slain by Tiger
+[18Dec2024 03:41:01.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasto_ was slain by Tiger
+[18Dec2024 03:41:47.164] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danynii[/127.46.120.163:50309] logged in with entity id 43268 at (-799.5033190891138, 74.0, -1714.3689904347762)
+[18Dec2024 03:41:47.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii joined the game
+[18Dec2024 03:41:47.371] [Server thread/INFO] [Jade/]: Syncing config to Danynii (49a33b5a-6641-322a-8753-34a26337c394)
+[18Dec2024 03:41:51.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2747ms or 54 ticks behind
+[18Dec2024 03:42:24.400] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17795ms or 355 ticks behind
+[18Dec2024 03:42:45.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[18Dec2024 03:43:08.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7939ms or 158 ticks behind
+[18Dec2024 03:43:38.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14731ms or 294 ticks behind
+[18Dec2024 03:43:51.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasto_ has made the advancement [Best Friends Forever]
+[18Dec2024 03:44:13.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20473ms or 409 ticks behind
+[18Dec2024 03:44:45.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16881ms or 337 ticks behind
+[18Dec2024 03:45:08.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7996ms or 159 ticks behind
+[18Dec2024 03:45:21.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Franquito0: Teleported Franquito0 to elbasto_]
+[18Dec2024 03:45:44.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Franquito0: Teleported Franquito0 to Danynii]
+[18Dec2024 03:45:45.815] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22461ms or 449 ticks behind
+[18Dec2024 03:46:18.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17306ms or 346 ticks behind
+[18Dec2024 03:46:39.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6615ms or 132 ticks behind
+[18Dec2024 03:47:08.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14047ms or 280 ticks behind
+[18Dec2024 03:47:24.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franquito0 has made the advancement [Alex's Caves]
+[18Dec2024 03:47:37.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14278ms or 285 ticks behind
