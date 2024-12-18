@@ -341,12 +341,6 @@
     },
     "done": true
   },
-  "regions_unexplored:pioneer": {
-    "criteria": {
-      "rocky_meadow": "2024-12-18 01:38:56 +0000"
-    },
-    "done": false
-  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2024-12-18 01:38:55 +0000"
@@ -358,12 +352,6 @@
       "always_true": "2024-12-18 01:38:55 +0000"
     },
     "done": true
-  },
-  "regions_unexplored:regions_explored": {
-    "criteria": {
-      "rocky_meadow": "2024-12-18 01:38:56 +0000"
-    },
-    "done": false
   },
   "betterdeserttemples:root": {
     "criteria": {
@@ -377,9 +365,123 @@
     },
     "done": true
   },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "mauve_hills": "2024-12-18 02:14:45 +0000",
+      "rocky_meadow": "2024-12-18 01:38:56 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "mauve_hills": "2024-12-18 02:14:45 +0000",
+      "rocky_meadow": "2024-12-18 01:38:56 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:parent": {
     "criteria": {
       "load_in_world": "2024-12-18 01:38:56 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/grass": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:16:59 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-12-18 02:19:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "scrubland": "2024-12-18 02:21:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-18 02:16:25 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2024-12-18 02:19:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna_plateau": "2024-12-18 02:21:32 +0000",
+      "minecraft:river": "2024-12-18 02:14:50 +0000",
+      "minecraft:savanna": "2024-12-18 02:18:08 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2024-12-18 02:19:01 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2024-12-18 02:19:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "mutton": "2024-12-18 02:20:12 +0000",
+      "chicken": "2024-12-18 02:17:52 +0000",
+      "golden_apple": "2024-12-18 02:22:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-18 02:17:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-18 02:17:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "mauve_log": "2024-12-18 02:13:23 +0000"
+    },
+    "done": false
+  },
+  "mcwroofs:recipes/cobblestone": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:17:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "scrubland": "2024-12-18 02:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-18 02:13:56 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/root": {
+    "criteria": {
+      "obtain_crafting_table": "2024-12-18 02:13:56 +0000"
     },
     "done": true
   },

@@ -367,6 +367,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "mauve_hills": "2024-12-18 02:15:26 +0000",
       "marsh": "2024-12-18 00:54:44 +0000",
       "rocky_meadow": "2024-12-14 05:51:10 +0000",
       "magnolia_highlands": "2024-12-18 00:52:25 +0000"
@@ -375,6 +376,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "mauve_hills": "2024-12-18 02:15:26 +0000",
       "marsh": "2024-12-18 00:54:44 +0000",
       "rocky_meadow": "2024-12-14 05:51:10 +0000",
       "magnolia_highlands": "2024-12-18 00:52:25 +0000"
