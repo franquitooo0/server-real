@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "6b8a8f6eafd53d62b8b58a4b4aebc793"
+	name: "LegendPrint#6b8a8f6e"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

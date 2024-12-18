@@ -2255,3 +2255,54 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Dec2024 02:54:57.368] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-5, y=68, z=11}
 [18Dec2024 02:54:57.370] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-6, y=68, z=11}
 [18Dec2024 02:55:11.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15810ms or 316 ticks behind
+[18Dec2024 02:55:28.492] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/s2c/OpenGuiRequest$Type
+[18Dec2024 02:55:47.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21804ms or 436 ticks behind
+[18Dec2024 02:55:56.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Franquito0: Made LegendPrint a server operator]
+[18Dec2024 02:56:18.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15984ms or 319 ticks behind
+[18Dec2024 02:56:39.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5630ms or 112 ticks behind
+[18Dec2024 02:56:47.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LegendPrint: Killed LegendPrint]
+[18Dec2024 02:56:58.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LegendPrint was killed
+[18Dec2024 02:56:58.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasto_ has made the advancement [Minecraft Comes Alive]
+[18Dec2024 02:57:01.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7127ms or 142 ticks behind
+[18Dec2024 02:57:12.332] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[18Dec2024 02:57:20.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3853ms or 77 ticks behind
+[18Dec2024 02:57:20.622] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
+[18Dec2024 02:57:44.121] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marat'/21816, l='ServerLevel[world]', x=-214.30, y=79.00, z=-963.29] died, message: 'Marat was slain by Zombie'
+[18Dec2024 02:57:44.152] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[18Dec2024 02:57:44.166] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[18Dec2024 02:58:00.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25144ms or 502 ticks behind
+[18Dec2024 02:58:34.747] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-7, y=24, z=-1017}
+[18Dec2024 02:58:57.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 41515ms or 830 ticks behind
+[18Dec2024 02:59:37.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25773ms or 515 ticks behind
+[18Dec2024 03:00:15.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LegendPrint has made the advancement ['X' Marks the Spot]
+[18Dec2024 03:00:17.845] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25091ms or 501 ticks behind
+[18Dec2024 03:00:24.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LegendPrint has made the advancement [Diamonds!]
+[18Dec2024 03:00:29.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LegendPrint has made the advancement [Isn't It Iron Pick]
+[18Dec2024 03:00:58.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25349ms or 506 ticks behind
+[18Dec2024 03:01:01.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LegendPrint has made the advancement [Barrel Booty]
+[18Dec2024 03:01:06.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii has made the advancement [Isn't It Iron Pick]
+[18Dec2024 03:01:20.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LegendPrint has made the advancement [Stone Age]
+[18Dec2024 03:01:35.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22054ms or 441 ticks behind
+[18Dec2024 03:01:49.677] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Taron}[style={}] has been infected
+[18Dec2024 03:01:56.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6024ms or 120 ticks behind
+[18Dec2024 03:02:25.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14206ms or 284 ticks behind
+[18Dec2024 03:03:00.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20499ms or 409 ticks behind
+[18Dec2024 03:03:08.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LegendPrint> Pide disculpas, se amurró y vamos al rivals
+[18Dec2024 03:03:17.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LegendPrint> Suerte chicos, gracias igual
+[18Dec2024 03:03:17.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Danynii> pero
+[18Dec2024 03:03:21.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Danynii> dile que da igualpo
+[18Dec2024 03:03:26.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Danynii> si lo vamos a solucionar
+[18Dec2024 03:03:27.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11965ms or 239 ticks behind
+[18Dec2024 03:03:50.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LegendPrint> otro dia dice
+[18Dec2024 03:03:52.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9333ms or 186 ticks behind
+[18Dec2024 03:03:52.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LegendPrint> na q hacer
+[18Dec2024 03:03:56.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Danynii> esta bien
+[18Dec2024 03:03:58.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Danynii> suerte!
+[18Dec2024 03:04:02.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LegendPrint> Igualmente
+[18Dec2024 03:04:03.683] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LegendPrint lost connection: Disconnected
+[18Dec2024 03:04:03.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LegendPrint left the game
+[18Dec2024 03:04:21.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14475ms or 289 ticks behind
+[18Dec2024 03:04:45.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9329ms or 186 ticks behind
+[18Dec2024 03:04:57.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Franquito0: Made LegendPrint no longer a server operator]
+[18Dec2024 03:05:06.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5434ms or 108 ticks behind
+[18Dec2024 03:05:29.990] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8786ms or 175 ticks behind
