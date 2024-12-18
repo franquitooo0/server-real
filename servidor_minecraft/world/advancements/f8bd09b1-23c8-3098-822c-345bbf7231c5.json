@@ -422,6 +422,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-18 04:04:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2024-12-18 02:45:43 +0000"
@@ -432,9 +438,17 @@
     "criteria": {
       "shrubland": "2024-12-18 02:24:11 +0000",
       "rocky_shrubland": "2024-12-18 02:30:03 +0000",
-      "scrubland": "2024-12-18 02:16:22 +0000"
+      "scrubland": "2024-12-18 02:16:22 +0000",
+      "old_growth_woodland": "2024-12-18 03:46:33 +0000",
+      "spider_nest": "2024-12-18 03:46:39 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-18 03:52:02 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
@@ -471,6 +485,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-18 03:43:51 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2024-12-18 03:54:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-18 03:07:04 +0000"
@@ -486,6 +512,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2024-12-18 03:37:00 +0000",
+      "minecraft:savanna_plateau": "2024-12-18 03:44:38 +0000",
       "minecraft:river": "2024-12-18 02:16:46 +0000",
       "minecraft:forest": "2024-12-18 02:42:45 +0000",
       "minecraft:ocean": "2024-12-18 03:27:42 +0000",
@@ -547,6 +574,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-18 02:38:43 +0000",
       "cooked_beef": "2024-12-18 02:26:40 +0000",
+      "apple": "2024-12-18 03:55:56 +0000",
       "bread": "2024-12-18 03:05:58 +0000"
     },
     "done": false
@@ -581,9 +609,21 @@
     },
     "done": true
   },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-18 04:04:34 +0000"
+    },
+    "done": true
+  },
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2024-12-18 02:44:28 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutters": {
+    "criteria": {
+      "has_planks": "2024-12-18 03:54:01 +0000"
     },
     "done": true
   },
@@ -632,9 +672,21 @@
     },
     "done": true
   },
+  "quark:shiba_help": {
+    "criteria": {
+      "shiba_help": "2024-12-18 03:51:01 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/awning": {
     "criteria": {
       "has_planks": "2024-12-18 02:55:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-18 03:54:01 +0000"
     },
     "done": true
   },

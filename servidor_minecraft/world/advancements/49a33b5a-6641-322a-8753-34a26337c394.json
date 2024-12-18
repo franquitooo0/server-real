@@ -402,6 +402,7 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "mauve_log": "2024-12-18 02:13:23 +0000",
+      "pine_log": "2024-12-18 04:04:18 +0000",
       "blackwood_log": "2024-12-18 03:20:08 +0000"
     },
     "done": false
@@ -610,6 +611,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-18 03:59:47 +0000",
       "minecraft:skeleton": "2024-12-18 02:55:10 +0000",
       "minecraft:spider": "2024-12-18 02:53:48 +0000",
       "minecraft:enderman": "2024-12-18 02:55:25 +0000",
@@ -650,6 +652,36 @@
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2024-12-18 03:12:54 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-18 04:03:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-18 03:52:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-18 03:57:21 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-12-18 03:58:58 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-18 04:03:50 +0000"
     },
     "done": true
   },
