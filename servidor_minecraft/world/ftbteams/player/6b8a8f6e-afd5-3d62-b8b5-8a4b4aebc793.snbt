@@ -1,0 +1,17 @@
+{
+	id: "6b8a8f6e-afd5-3d62-b8b5-8a4b4aebc793"
+	type: "player"
+	player_name: "LegendPrint"
+	ranks: {
+		6b8a8f6e-afd5-3d62-b8b5-8a4b4aebc793: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "LegendPrint"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5BFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

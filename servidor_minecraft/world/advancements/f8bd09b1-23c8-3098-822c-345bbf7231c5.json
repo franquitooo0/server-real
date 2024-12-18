@@ -400,6 +400,18 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-12-18 02:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-12-18 02:45:43 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2024-12-18 02:24:11 +0000",
@@ -413,6 +425,13 @@
       "killed_something": "2024-12-18 02:25:14 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2024-12-18 02:44:28 +0000",
+      "opened_chest": "2024-12-18 02:44:36 +0000"
+    },
+    "done": false
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
@@ -442,6 +461,18 @@
     },
     "done": false
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-18 02:47:34 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/thatch": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:44:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-18 02:38:43 +0000",
@@ -461,9 +492,21 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-12-18 02:47:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-18 02:19:33 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-18 02:44:28 +0000"
     },
     "done": true
   },
