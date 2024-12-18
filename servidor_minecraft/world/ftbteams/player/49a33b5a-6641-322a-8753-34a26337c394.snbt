@@ -8,7 +8,7 @@
 	properties: {
 		"ftbteams:display_name": "Danynii"
 		"ftbteams:description": ""
-		"ftbteams:color": "#FF5984"
+		"ftbteams:color": "#5986FF"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}
